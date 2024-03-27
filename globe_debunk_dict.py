@@ -253,7 +253,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Flat Earth was the cosmology of our ancestors who had direct contact with the Divine because they were closer to the Divine than we are now. That is how the ancient's knew things despite not having access to technology we have now.",
         
-        'file' : 'collage earth tree model from different cultures and races.jpg',
+        'file' : 'collage earth tree model different ancient cultures psyop.jpg',
         
         'search_words' : ["always", "greek", "rome", "ancient", "knew", "culture"]
     },
