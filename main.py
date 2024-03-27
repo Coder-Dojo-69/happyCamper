@@ -8,12 +8,9 @@ from globe_debunk_dict  import globe_debunk_dictionary
 from text_response import text_response_dict
 from commands_dictionary import commands_dict
 
-pc_host = True
+pc_host = False
 
-if pc_host:
-    bot_token = '7072536114:AAFu_tRw_scbk9O2uV2hoU_awr2SdzmXk8Q'
-else:
-    bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
+bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
 
 TOKEN: Final = bot_token
 
