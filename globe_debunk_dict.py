@@ -382,4 +382,16 @@ globe_debunk_dictionary = {
         'file' : 'rotation objects but no earth.jpg',        
         'search_words' : ["1000mph", "rotation", "feel",]
     },
+    'debunk_037': {
+        'string_list' : [
+            "in space no one can hear you screem",
+            "all alone in space",
+            "higher earth orbit",
+        ],
+        'caption' : f"In the Depth of Earth Orbit it is still not safe to be alone. Lost in Space.",
+        
+        'file' : 'nasa astronaut in space above earth alone.jpg',
+        
+        'search_words' : ["astro", "space", "alone",]
+    },
 }
