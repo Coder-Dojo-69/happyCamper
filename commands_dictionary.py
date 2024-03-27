@@ -53,7 +53,7 @@ faq_text = ""
 for faq_id, faq_info in faq_dict.items():
     question = faq_info['question']
     answer = faq_info['answer']
-    faq_text += f"[{question}](/faq_{faq_id})\n\n"
+    faq_text += f"/faq_{faq_id}.: {question}\n\n"
 
 print(faq_text)
 
