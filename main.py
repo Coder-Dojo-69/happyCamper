@@ -27,8 +27,8 @@ if pc_host:
     # print(system_path)
     # print(system_path_vid)
 else:
-    system_path = f"/home/dojopython/telegram_bot/source/pics/"
-    system_path_vid = f"/home/dojopython/telegram_bot/source/videos/"
+    system_path = f"/home/dojopython/happyCamper/source/pics/"
+    system_path_vid = f"/home/dojopython/happyCamper/source/videos/"
 
 #: Commands
 async def start_command(update: Update, context: CallbackContext):
