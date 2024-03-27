@@ -5,7 +5,7 @@ from faq_dict import faq_dict
 debunk_list_str = ""
 
 for idx, key in enumerate(globe_debunk_dictionary):
-    debunk_list_str += f"/{key}"
+    debunk_list_str += f"/{key} {globe_debunk_dictionary[key]['string_list'][0]}"
     if idx < len(globe_debunk_dictionary) - 1:
         debunk_list_str += "\n\n"
 
