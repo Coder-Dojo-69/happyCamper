@@ -55,8 +55,16 @@ for faq_id, faq_info in faq_dict.items():
     answer = faq_info['answer']
     faq_text += f"/FAQ_{faq_id}: {question}\n\n"
 
-print(faq_text)
+# print(faq_text)
+    
+for key, value in faq_dict.items():
+    command_key = f"/FAQ_{key}"
 
+    faq_info = f"{value['answer']}"
+
+    additional_commands_dict[command_key] = faq_info
+
+    
 commands_dict = {
     
     '/start' : """Welcome to Camper Bot\n\nNavigation Commands:\n\n/start\n     /about\n/debunk\n     /debunk_list\n/response\n    /response_list\n/help\n   /submit\n   /FAQ""",
