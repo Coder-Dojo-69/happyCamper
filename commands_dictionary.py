@@ -62,8 +62,8 @@ commands_dict = {
 
     '/response_list' : f"""Here is a list of available responses\n\n{response_list_str}""",
     
-    '/help' : f"""Whenever you get stuck type in /start to get back on track.\n\nTo Report HappyCamper for not being happy contact @dojo6dojo9""",
-    '/submit' : f"""Got your own debunk or auto-response sugestions please submit to @dojo6dojo9""",
+    '/help' : f"""Whenever you get stuck type in /start to get back on track.\n\nTo Report HappyCamper for not being happy contact https://t.me/happycamperdemo""",
+    '/submit' : f"""Got your own debunk or auto-response sugestions please submit to https://t.me/happycamperdemo with @admin""",
     '/FAQ' : f"""Got Questions? Looking for Answers?\n\n/faq_list\n\n/help""",
 
 } | additional_commands_dict
