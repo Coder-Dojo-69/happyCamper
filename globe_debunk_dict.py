@@ -321,7 +321,7 @@ globe_debunk_dictionary = {
         
         'file' : 'flat earth verse in quran 3.jpg',
         
-        'search_words' : ["quran", "flat", "globe",]
+        'search_words' : ["quran", "flat", "allah",]
     },
     'debunk_032': {
         'string_list' : [
