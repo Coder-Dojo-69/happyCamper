@@ -372,4 +372,15 @@ globe_debunk_dictionary = {
         
         'search_words' : ["lol", "moon", "earth",]
     },
+    'debunk_036': {
+        'string_list' : [
+            "what rotation of the earth",
+            "i can feel the earth spinning",
+            "its fun spinning so fast",
+        ],
+        'caption' : f"Its all good. What spin? I dont feel any spin? Do you? Everything is going to be just fine when we stop moving.",
+        
+        'file' : 'rotation objects but no earth.jpg',        
+        'search_words' : ["1000mph", "rotation", "feel",]
+    },
 }
