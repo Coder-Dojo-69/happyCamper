@@ -359,4 +359,17 @@ globe_debunk_dictionary = {
         
         'search_words' : ["model", "flat earth", "show"]
     },
+    'debunk_035': {
+        'string_list' : [
+            "globe earth is so funny",
+            "flat earth makes crazy claims",
+            "you make me laugh",
+            "you're so funny",
+        ],
+        'caption' : f"Sometimes some people say the funniest things",
+        
+        'file' : 'earth from moon lol.jpg',
+        
+        'search_words' : ["lol", "moon", "earth",]
+    },
 }
