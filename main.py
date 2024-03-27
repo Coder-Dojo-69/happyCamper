@@ -77,11 +77,11 @@ def handle_response(text: str) -> str:
 #: Handle message
 
 async def handle_message(update: Update, context: CallbackContext):
-    # ContextTypes.DEFAULT_TYPE,
     message_type: str = update.message.chat.type
     text: str = update.message.text
 
-    # print(f'User ({update.message.chat.id}) in {message_type}: "{text}"')
+    # Flag to track if a response has been sent
+    response_sent = False
 
     if message_type == 'group':
         if BOT_USERNAME in text:
@@ -89,77 +89,58 @@ async def handle_message(update: Update, context: CallbackContext):
             response: str = handle_response(new_text)
         else:
             return
-
     else:
-
         response: str = handle_response(text)
 
-    #+++ |=== DEBUNKS OF GLOBE LIES ===| +++#
-    #: Iterate over the dictionary
     for key, values in globe_debunk_dictionary.items():
         string_list = values['string_list']
         caption = values['caption']
         image_file = values['file']
-        video_file = values.get('video', None)  # Check if video file is specified
-        # print(video_file)
+        video_file = values.get('video', None)
         search_words = values['search_words']
 
-        #: Check if any of the strings are present in the message
         for debunk_string in string_list:
-            if debunk_string.lower() in text.lower():
-                #: Get the path to the image file
+            if debunk_string.lower() in text.lower() and not response_sent:
                 image_path = f"{system_path}{image_file}"
-                # print(image_path)
-
-                #: Check if the image file exists
                 if os.path.exists(image_path):
-                    # print('image path does exist')
-                    #: Reply with photo
                     await update.message.reply_photo(
                         photo=open(image_path, 'rb'),
                         caption=caption)
+                    response_sent = True  # Set the flag to True
                 else:
                     print("Image file not found.")
 
-                #: Check if video file exists and send video
                 if video_file:
                     video_path = f"{system_path_vid}{video_file}"
-                    # print(video_path)
                     if os.path.exists(video_path):
-                        # print('path exists', video_path)
                         await update.message.reply_video(
                             video=open(video_path, 'rb'),
                             caption=caption)
+                        response_sent = True  # Set the flag to True
                     else:
                         print("Video file not found.")
 
-        #: Check if any two search words are present in the message
-        if sum(word.lower() in text.lower() for word in search_words) >= 2:
-            if video_file:  # If video file is specified
+        if sum(word.lower() in text.lower() for word in search_words) >= 2 and not response_sent:
+            if video_file:
                 video_path = f"{system_path_vid}{video_file}"
                 if os.path.exists(video_path):
                     await update.message.reply_video(
                         video=open(video_path, 'rb'),
                         caption=caption)
+                    response_sent = True  # Set the flag to True
                 else:
                     print("Video file not found.")
-            else:  # If no video file, default to photo
+            else:
                 image_path = f"{system_path}{image_file}"
                 if os.path.exists(image_path):
                     await update.message.reply_photo(
                         photo=open(image_path, 'rb'),
                         caption=caption)
+                    response_sent = True  # Set the flag to True
                 else:
                     print("Image file not found.")
 
-    #:::: |=== DEBUNK /DEBUNK ===| ::::#
-                
-    
-
-    # print("Bot:", response)
-
     await update.message.reply_text(response)
-
 
 #: Errors
 
