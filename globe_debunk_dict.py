@@ -1,9 +1,8 @@
 globe_debunk_dictionary = {
     'debunk_001' : {
         'string_list' : [
-            'the earth moves',
             'laws of motion',
-            'its stationary and has no motion'
+            'its stationary and has no motion',
             ],
         'caption' : f"They tried to measure Earth's motion but failed in the Michelson-Morley experiment using interferometry and mirrors to measure displacement of light as it 'motioned' through the Aether",
         'file' : 'einstein earth is motionless 1.jpg',
@@ -353,7 +352,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"There is a model for everything. The Flat Earth model is philosophically, logically and intellectually superior to the globe earth model.",
 
-        'file' : 'no_file',
+        'file' : 'toroidal flat earth',
         
         'video' : 'toroidal flat earth.mp4',
         
