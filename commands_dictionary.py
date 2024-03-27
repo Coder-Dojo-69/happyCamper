@@ -1,5 +1,6 @@
 from globe_debunk_dict import globe_debunk_dictionary
 from text_response import text_response_dict
+from faq_dict import faq_dict
 
 debunk_list_str = ""
 
@@ -48,6 +49,14 @@ for key, value in text_response_dict.items():
     # Add the formatted string to the additional_commands_dict under the key
     additional_commands_dict[command_key] = response_info
 
+faq_text = ""
+for faq_id, faq_info in faq_dict.items():
+    question = faq_info['question']
+    answer = faq_info['answer']
+    faq_text += f"[{question}](/faq_{faq_id})\n\n"
+
+print(faq_text)
+
 commands_dict = {
     
     '/start' : """Welcome to Camper Bot\n\nNavigation Commands:\n\n/start\n     /about\n/debunk\n     /debunk_list\n/response\n    /response_list\n/help\n   /submit\n   /FAQ""",
@@ -65,5 +74,6 @@ commands_dict = {
     '/help' : f"""Whenever you get stuck type in /start to get back on track.\n\nTo Report HappyCamper for not being happy contact https://t.me/happycamperdemo""",
     '/submit' : f"""Got your own debunk or auto-response sugestions please submit to https://t.me/happycamperdemo with @admin""",
     '/FAQ' : f"""Got Questions? Looking for Answers?\n\n/faq_list\n\n/help""",
+    '/faq_list' : faq_text,
 
 } | additional_commands_dict
