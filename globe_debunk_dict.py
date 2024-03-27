@@ -1,0 +1,361 @@
+globe_debunk_dictionary = {
+    'debunk_001' : {
+        'string_list' : [
+            'the earth moves',
+            'laws of motion',
+            'its stationary and has no motion'
+            ],
+        'caption' : f"They tried to measure Earth's motion but failed in the Michelson-Morley experiment using interferometry and mirrors to measure displacement of light as it 'motioned' through the Aether",
+        'file' : 'einstein earth is motionless 1.jpg',
+        'search_words' : ["earth", "stationary", "motion", "foundation", "move"],
+    },
+
+    'debunk_002' : {
+        'string_list' : [
+            'no aether detected',
+        ],
+        'caption' : f'The Aether is like the pixel on the screen that shifts and changes to create the scenery you see on the screen of life',
+        'file' : 'aether motion detection.jpg',
+        'search_words' : ["aether", 'field',]
+    },
+
+    'debunk_003' : {
+        'string_list' : [
+            'vacuum next to a container',
+            "Earth's atmosphere",
+            'law of thermodynamics means',
+            'gravity holds in the atmosphere'
+        ],
+        'caption' : f'Just like the brain cannot stay in your head without a container, so to does the atmoshpere of Earth also require a container',
+        'file' : 'violation of thermodynamics vacuum.jpg',
+        'search_words' : ["vacuum", "container", "gravity",]
+    },
+    'debunk_004' : {
+        'string_list' : [
+            'prove the earth is flat',
+            'we dont need to prove its a globe',
+            'you dont have any proof',
+            'what makes you think its flat',
+            'burden does not lie with the globe',
+        ],
+        'caption' : f'Based on what we observe with our senses the burden of proof is upon the heliocentric model to prove its claims',
+        'file' : 'dear globie try to prove it is a globe.jpg',
+        'search_words' : ["burden", "proof",]
+    },
+    'debunk_005' : {
+        'string_list' : [
+            'gravity holds the ocean to the earth',
+            'gravity pulls us to the ground',
+            'there is no up and down',
+            'gravity is fake',
+        ],
+        'caption' : f'Gravity (big G) is not a force because it cannot be measured nor acted upon to produce any effect',
+        'file' : 'Edgar The Bug gravity works.jpg',
+        'search_words' : ["gravity", "force",]
+    },
+    'debunk_006' : {
+        'string_list' : [
+            'married his first cousin',
+            'what is special relativity',
+            'was einstein a degenerate',
+            "who was Einstein's second wife",
+            "Einstein was a degenerate actor",
+        ],
+        'caption' : f"Albert Einstein married his cousin, Elsa Löwenthal (née Einstein), who was born Elsa Einstein. Elsa was Albert Einstein's second wife. They were first cousins maternally and second cousins paternally. They got married in 1919, after Einstein's divorce from his first wife, Mileva Marić",
+        'file' : 'einstein relativity marrying your cousin 10.jpg',
+        'search_words' : ["einstein", "cousin"]
+    },
+    'debunk_007' : {
+        'string_list' : [
+            'helicopter hover above',
+            'earth does not rotate',
+            'spot i jumped from',
+        ],
+        'caption' : f"if the earth moves it would mean that objects can just hover above the ground and wait for the destination to arrive",
+        'file' : 'helicopters and pendulums 1.jpg',
+        'search_words' : ["hover", "above", "earth"]
+    },
+    'debunk_008' : {
+        'string_list' : [
+            "airy's failure proves earths motion",
+            "measure the drag on light"
+        ],
+        'caption' : f"Airy's failure proves the Earth is not in motion. Oh dear",
+        'file' : 'airys failure graphic.jpg',
+        'search_words' : ["failure", "airy", "prove"]
+    },
+    'debunk_009' : {
+        'string_list' : [
+            "define level",
+        ],
+        'caption' : f"Large bodies of water always finds its level",
+        'file' : 'water level curving water generated water.jpg',
+        'search_words' : ["level", "water",]
+    },
+    'debunk_010' : {
+        'string_list' : [
+            "there is no curve",
+            "the earth has curvature"
+        ],
+        'caption' : f"Spherical Trigonometry",
+        'file' : 'no curvature up or down.jpg',
+        'search_words' : ["curv", "level", "horizon"]
+    },
+    'debunk_011' : {
+        'string_list' : [
+            "flat earth is debunked",
+            "earth is not flat",
+            "earth is a globe",
+        ],
+        'caption' : f"Dont let them convince you that you're crazy. The Globe Lie is what is crazy. When you really think about it. lol.",
+        'file' : 'flat earth crazy globe earth normal.jpg',
+        'search_words' : ["flat", "crazy"]
+    },
+    'debunk_012' : {
+        'string_list' : [
+            "water finds its level",
+            "water does not stick to a ball",
+            "spinning balls of water is not possible",
+        ],
+        'caption' : f"Call me crazy but I dont think water should be able to stick to a spinning ball",
+        'file' : 'edgar the bug globetard logic.jpg',
+        'search_words' : ["globe", "logic"]
+    },
+    'debunk_013' : {
+        'string_list' : [
+            "what flat earth evidence",
+            "head in the sand",
+            "flat earth win",
+        ],
+        'caption' : f"Sometimes they just dont want to see",
+        'file' : 'flat earth evidence head in sand.jpg',
+        'search_words' : ["evidence", "flat"]
+    },
+    'debunk_014' : {
+        'string_list' : [
+            "are you retarded",
+            "kicked in the head",
+            "you are retarded",
+        ],
+        'caption' : f"Because you are retarded. Whoever you are lol",
+        'file' : 'Edgar The Bug template retarded telegram.jpg',
+        'search_words' : ["are", "retarded",]
+    },
+    'debunk_015' : {
+        'string_list' : [
+            "you're so racist",
+            "you're a hater",
+        ],
+        'caption' : f"Being racist is natural and healthy",
+        'file' : 'hitler race relations.jpg',
+        'search_words' : ["racist", "that",]
+    },
+    'debunk_016' : {
+        'string_list' : [
+            "easier to fool people",
+            "moon landing",
+            "nasa studio",
+            'pinnacle of mankind',
+            "pinnacle of engineering",
+        ],
+        'caption' : f"Its only taken 50+ years to maybe get back there",
+        'file' : 'easier to fool people than convince them.jpg',
+        'search_words' : ["fool", "easy",]
+    },
+    'debunk_017' : {
+        'string_list' : [
+            "heliocentrism is a religion",
+        ],
+        'caption' : f"The Heliocentric model of our cosmology is founded upon beliefs that cannot be falsified because its attributes have been expanded to be so vast that it cannot be falsified. In other words, science has placed a limit on what we can know to be true by expanding the limits of the cosmology beyond what we can know.",
+        'file' : 'heliocentrism is a religion.jpg',
+        'search_words' : ["globe", "religion", "deception"]
+    },
+    'debunk_018': {
+        'string_list' : [
+            "we can't go to antarctica",
+        ],
+        'caption' : f"It is an objective lie to say that humans have the freedom to explore this world. The limitations imposed upon us to explore our world fully is limited by those who wish to enslave us here on Earth.",
+        'file' : 'no_image',
+        
+        'video' : 'dual antartic ice wall.mp4',
+        'search_words' : ["antarctica", "explore", "can't", "cant"]
+    },
+    'debunk_019': {
+        'string_list' : [
+            "antarctic treaty upheld",
+        ],
+        'caption' : f"The Antarctic Treaty was signed on December 1, 1959. It entered into force on June 23, 1961.\n\nThe original signatories of the Antarctic Treaty, signed on December 1, 1959, were:\n1. Argentina\n2. Australia\n3. Belgium\n4. Chile\n5. France\n6. Japan\n7. New Zealand\n8. Norway\n9. South Africa\n10. Soviet Union\n11. United Kingdom\n12. United States\n\nSince then, many other countries have acceded to the treaty, bringing the total number of signatories to 54 as of 2022.",
+        
+        'file' : 'antarctic treaty upheld.png',
+        
+        'search_words' : ["antarctic", "treaty", "war", "enemies"]
+    },
+
+    'debunk_020': {
+        'string_list' : [
+            "we made it to the moon jump flag",
+        ],
+        'caption' : f"Now that we've made it to the moon, lets all jump for joy!",
+        
+        'file' : 'we made it to the moon jump flag.mp4',
+        'video' : 'we made it to the moon jump flag.mp4',
+        
+        'search_words' : ["moon", "jump",]
+    },
+    'debunk_021': {
+        'string_list' : [
+            "no thanks i trust nasa",
+        ],
+        'caption' : f"Just think along the lines of absurdities as you ponder how water can stick to a spinning ball. Then you'll see that its flat. And NASA Lies.",
+        
+        'file' : 'no thanks i trust nasa.jpg',
+        
+        'search_words' : ["brain", "nasa", "trust"]
+    },
+    'debunk_022': {
+        'string_list' : [
+            "looking for vaccinated flat earthers",
+        ],
+        'caption' : f"Flat Earther's knows that our world is being manipulated by those who wish to enslave us. Flat Earther's are harder to lie to.",
+        
+        'file' : 'looking for vaccinated flat earthers.jpg',
+        
+        'search_words' : ["vaccinate", "earther", "look"]
+    },
+    'debunk_023': {
+        'string_list' : [
+            "globe model cant be replicated",
+        ],
+        'caption' : f"Globe Earth make a lot of claims but their claims can not be replicated and scrutinized by what Science is. Science is when a hypothesis is tested over and over again.",
+        
+        'file' : 'globe model cant be replicated.jpg',
+        
+        'search_words' : ["globe", "test", "replicated",]
+    },
+    'debunk_024': {
+        'string_list' : [
+            "livestream from space of upside down earth",
+        ],
+        'caption' : f"Looking for a livestream of people in upside down Earth is tough. You'd think it would be easy given the millions in dollars NASA is spending to fool us the world is a spinning ball in space. And we came from monkey's.",
+        
+        'file' : 'livestream from space of upside down earth.jpg',
+        
+        'search_words' : ["livestream", "space", "upside", "down",]
+    },
+    'debunk_025': {
+        'string_list' : [
+            "ancient cultures",
+            "earth is a globe",
+            "the earth is flat",
+            "tree of life"
+
+        ],
+        'caption' : f"Flat Earth was the cosmology of our ancestors who had direct contact with the Divine because they were closer to the Divine than we are now. That is how the ancient's knew things despite not having access to technology we have now.",
+        
+        'file' : 'collage earth tree model from different cultures and races.jpg',
+        
+        'search_words' : ["always", "greek", "rome", "ancient", "knew", "culture"]
+    },
+    'debunk_026': {
+        'string_list' : [
+            "greek's knew the earth was a globe",
+            "roman's knew the earth was a globe",
+            "eratosthenes proved the earth is a globe"
+        ],
+        'caption' : f"Eratosthenes is a bogus historical character to prop up a belief that the ancients believed the earth was a spinning ball. This is a lie. If the ancients knew the earth was a globe then it would not have been controversial to suggest that Earth was a globe for Galileo and Copernicus",
+        
+        'file' : 'eratosthenes sun dial false hood 0.jpg',
+        
+        'search_words' : ["eratosthenes", "sticks", "measure", "shadow", "light"]
+    },
+    'debunk_027': {
+        'string_list' : [
+            "lasers prove flat earth",
+            "lasers are not straight"
+        ],
+        'caption' : f"Lasers are some of the straightest lines we can project. And when they are projected over large bodies of water the laser test proves the earth is flat.",
+        
+        'file' : 'lasers prove flat earth.jpg',
+        
+        'search_words' : ["laser", "bend",]
+    },
+    'debunk_028': {
+        'string_list' : [
+            "pictures from space",
+            "earth from space",
+            "spinning globe",
+        ],
+        'caption' : f"All images from NASA is just CGI.\n\n'Its Photoshopped, but it has to be'.",
+        
+        'file' : 'getting high on CGI.jpg',
+        
+        'search_words' : ["nasa", "space", "gay"]
+    },
+    'debunk_029': {
+        'string_list' : [
+            "went to the moon",
+        ],
+        'caption' : f"They've been caught lying because the lie is harder to cover up than you think. They do a good job of informing the world on what the world is than we give them credit for. But every now and then they get caught out.",
+        
+        'file' : 'they faked the moon landing they are liars.jpg',
+        
+        'search_words' : ["liars", "nasa",]
+    },
+    'debunk_030': {
+        'string_list' : [
+            "earth is a realm",
+            "tesla describe earth",
+        ],
+        'caption' : f"“Earth is a realm, it is not a planet. It is not an object, therefore, it has no edge. Earth would be more easily defined as a system environment. Earth is also a machine, it is a Tesla coil. The sun and moon are powered wirelessly with the electromagnetic field (the Aether). This field also suspends the celestial spheres with electo-magnetic levitation. Electromag levitation disproves gravity because the only force you need to counter is the electromagnetic force, not gravity. Though free to think and act, we are held together, like the stars in the firmament, with ties inseparable.”",
+        
+        'file' : 'tesla earth is a realm.jpg',
+        
+        'search_words' : ["realm", "system", "coil", "tesla",]
+    },
+    'debunk_031': {
+        'string_list' : [
+            "quran says earth is flat",
+            "flat earth is supported by the quran",
+        ],
+        'caption' : f"TAFSIR QURTUBI (2)\n\n'And we spread out the Earth, and placed anchors in it, and in it grew everything by proper measure.'",
+        
+        'file' : 'flat earth verse in quran 3.jpg',
+        
+        'search_words' : ["quran", "flat", "globe",]
+    },
+    'debunk_032': {
+        'string_list' : [
+            "cia started flat earth",
+            "flat earth is a psyop",
+        ],
+        'caption' : f"In reality the psyop is to fool you into thinking the earth is a spinning ball of water. The CIA is actually trying to surpress Flat Earth and to poisen the well through bad actors such as Not A Professor Dave.",
+        
+        'file' : 'flat earth was a psyop started by the cia 3.jpg',
+        
+        'search_words' : ["cia", "started", "psyop",]
+    },
+    'debunk_033': {
+        'string_list' : [
+            "how much do you know about the globe",
+            "how fast does earth rotate",
+        ],
+        'caption' : f"Try asking a globber to describe the globe model?",
+        
+        'file' : 'when you ask a globber how much they know about their model.jpg',
+        
+        'search_words' : ["globe", "model", "rotate"]
+    },
+    'debunk_034': {
+        'string_list' : [
+            "there is no flat",
+            "flat earthers have no model",
+        ],
+        'caption' : f"There is a model for everything. The Flat Earth model is philosophically, logically and intellectually superior to the globe earth model.",
+
+        'file' : 'no_file',
+        
+        'video' : 'toroidal flat earth.mp4',
+        
+        'search_words' : ["model", "flat earth", "show"]
+    },
+}
