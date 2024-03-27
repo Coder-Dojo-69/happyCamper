@@ -48,6 +48,7 @@ globe_debunk_dictionary = {
             'gravity pulls us to the ground',
             'there is no up and down',
             'gravity is fake',
+            'gravity is gay'
         ],
         'caption' : f'Gravity (big G) is not a force because it cannot be measured nor acted upon to produce any effect',
         'file' : 'Edgar The Bug gravity works.jpg',
