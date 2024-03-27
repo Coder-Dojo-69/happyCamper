@@ -27,10 +27,10 @@ for key, value in globe_debunk_dictionary.items():
     command_key = f"/{key}"
     # Format the string for each debunk entry
     debunk_info = (
-        "String List:\n    - " + ",\n    - ".join(value['string_list']) + "\n\n" +
+        "Phrase Trigger List:\n    - " + ",\n    - ".join(value['string_list']) + "\n\n" +
         "Caption: \"" + value['caption'] + "\"\n\n" +
         "File: \"" + value['file'] + "\"\n\n" +
-        "Combination Words: '" + "', '".join(value['search_words']) + "'"
+        "*Combination Words: '" + "', '".join(value['search_words']) + "'" +"\n\n*Combine 2 or more words to trigger HappyCamper response"
     )
 
     # Add the formatted string to the additional_commands_dict under the key
