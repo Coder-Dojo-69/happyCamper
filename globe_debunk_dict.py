@@ -435,7 +435,7 @@ globe_debunk_dictionary = {
         'caption' : f"Evgenia! She is Ice Princess!",
         
         'file' : 'evgenia russian ice skater 0.jpg',
-        'video' : 'evgenia russian ice skater 0.mp4',
+        'video' : 'evgenia russian ice skater 0.MP4',
         
         'search_words' : ["ice princess", "dance", "on ice", "beautiful",]
     },
@@ -448,7 +448,7 @@ globe_debunk_dictionary = {
         'caption' : f"Evgenia's Ice Princess Sister, we introduce to you Princess Nanneke on Ice :) Happy Camper things. lol.",
         
         'file' : 'evgenia russian ice skater 1.jpg',
-        'video' : 'evgenia russian ice skater 1.mp4',
+        'video' : 'evgenia russian ice skater 1.MP4',
         
         'search_words' : ["nanneke", "flat earth", "riding the canal",]
     },
