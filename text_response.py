@@ -54,4 +54,10 @@ text_response_dict = {
         'text_comb' : ["awesome", "amazing", "things"],
         'response' : "People really are awesome still. They do the most amazing things ever!!! Because we're all super Awesome Divine and Eternal",
     },
+    'response_012' : {
+        'text' : ["i hate you and i don’t know why",],
+        'text_comb' : ["hate", "know", "things"],
+        'response' : "What's there to hate? We're all super Awesome Divine and Eternal. We will never cease. Until we know it all. Then we may cease. In order to do it all again.",
+    },
+
 }
