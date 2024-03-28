@@ -420,11 +420,11 @@ globe_debunk_dictionary = {
         'string_list' : [
             "leila get your coffee", "leila the cow",
         ],
-        'caption' : f"Do not summon me child!",
+        'caption' : f"Stay Positive. The Earth is Flat :)",
         
         'file' : 'positive vibe for you bewitched.jpg',
         'video' : 'positive vibe for you bewitched.mp4',
         
-        'search_words' : ["leila", "dallas",]
+        'search_words' : ["leila", "dallas", "positive", "vibes", "negative"]
     },
 }
