@@ -394,4 +394,15 @@ globe_debunk_dictionary = {
         
         'search_words' : ["astro", "space", "alone",]
     },
+    'debunk_038': {
+        'string_list' : [
+            "at the snap of the mind we can change the world",
+        ],
+        'caption' : f"Let's readjust the Space Paradigm We Have in Our Minds!!!",
+        
+        'file' : 'snap kid flat earth.jpg',
+        'video' : 'snap kid flat earth.mp4',
+        
+        'search_words' : ["shift", "paradigm", "new", "old", "space", "flat earth", "globe",]
+    },
 }
