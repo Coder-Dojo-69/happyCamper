@@ -405,4 +405,14 @@ globe_debunk_dictionary = {
         
         'search_words' : ["shift", "paradigm", "new", "old", "space", "flat earth", "globe",]
     },
+    'debunk_039': {
+        'string_list' : [
+            "blame white people", "because of white people",
+        ],
+        'caption' : f"Because its so easy these days",
+        
+        'file' : 'there has to be a way to blame white people.jpg',
+        
+        'search_words' : ["nigger", "happy", "blame",]
+    },
 }
