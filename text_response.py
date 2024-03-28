@@ -49,4 +49,9 @@ text_response_dict = {
         'text_comb' : ["near", "wife", "husband", "hubby", "love", "lovers"],
         'response' : "it is as if the Earth Moves",
     },
+    'response_011' : {
+        'text' : ["people are awesome",],
+        'text_comb' : ["awesome", "amazing", "things"],
+        'response' : "People really are awesome still. They do the most amazing things ever!!! Because we're all super Awesome Divine and Eternal",
+    },
 }
