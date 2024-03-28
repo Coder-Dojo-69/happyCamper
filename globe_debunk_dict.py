@@ -3,10 +3,11 @@ globe_debunk_dictionary = {
         'string_list' : [
             'laws of motion',
             'its stationary and has no motion',
+            "because you're moving with"
             ],
         'caption' : f"They tried to measure Earth's motion but failed in the Michelson-Morley experiment using interferometry and mirrors to measure displacement of light as it 'motioned' through the Aether",
         'file' : 'einstein earth is motionless 1.jpg',
-        'search_words' : ["earth", "stationary", "motion", "foundation", "move"],
+        'search_words' : ["earth", "stationary", "motion", "moving", "foundation", "move"],
     },
 
     'debunk_002' : {
