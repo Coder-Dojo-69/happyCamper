@@ -416,4 +416,15 @@ globe_debunk_dictionary = {
         
         'search_words' : ["nigger", "happy", "blame", "sha", "nay", "no way",]
     },
+    'debunk_040': {
+        'string_list' : [
+            "leila get your coffee", "leila the cow",
+        ],
+        'caption' : f"Do not summon me child!",
+        
+        'file' : 'positive vibe for you bewitched.jpg',
+        'video' : 'positive vibe for you bewitched.mp4',
+        
+        'search_words' : ["leila", "dallas",]
+    },
 }
