@@ -65,6 +65,8 @@ for faq_id, faq_info in faq_dict.items():
     answer = faq_info['answer']
     faq_text += f"/FAQ_{faq_id}: {question}\n\n"
 
+faq_text += f"\n\n/start"
+
 # print(faq_text)
     
 for key, value in faq_dict.items():
@@ -77,21 +79,21 @@ for key, value in faq_dict.items():
     
 commands_dict = {
     
-    '/start' : """Welcome to Camper Bot\n\nNavigation Commands:\n\n/start\n     /about\n/debunk\n     /debunk_list\n/response\n    /response_list\n/help\n   /submit\n   /FAQ""",
+    '/start' : """Welcome to Camper Bot\n\nNavigation Commands:\n\n/start\n     /about\n/debunk\n     /debunk_list\n/response\n    /response_list\n/help\n   /submit\n   /FAQ\n\nTo Test HappyCamper visit the demo group at: https://t.me/happycamperdemo""",
     
-    '/about' : """I'm the HappyCamper that looks up at the stars and says the Earth is Flat\n\nAs a HappyCamper I will give you another perspective on the nature of our reality.\n\nThe reality, the terrain is important in knowing where we are and how life should be lived\n\nTo get you started here are the lists for the debunks and the responses this HappyCamper can generate based on member imput\n\n/debunk\n/debunk_list\n\n/response\n/response_list""",
+    '/about' : """I'm the HappyCamper that looks up at the stars and says the Earth is Flat\n\nAs a HappyCamper I will give you another perspective on the nature of our reality.\n\nThe reality, the terrain is important in knowing where we are and how life should be lived\n\nTo get you started here are the lists for the debunks and the responses this HappyCamper can generate based on member imput\n\n/debunk\n/debunk_list\n\n/response\n/response_list\n\nTo Test HappyCamper visit the demo group at: https://t.me/happycamperdemo\n\n/start""",
     
-    '/debunk' : """A debunk response can be generated through a list of catch-phrases. For example if a member types in 'there is no curve' this post will generate an automated response to the catch phrase 'there is no curve.'\n\nA combination of words can also generate automated responses.\n\nHere is a list of available debunks to trigger.\n\n/debunk_list""",
+    '/debunk' : """A debunk response can be generated through a list of catch-phrases. For example if a member types in 'there is no curve' this post will generate an automated response to the catch phrase 'there is no curve.'\n\nA combination of words can also generate automated responses.\n\nHere is a list of available debunks to trigger.\n\n/debunk_list\n\n/start""",
     
-    '/debunk_list' : f"""Here are the details of each debunk including what the debunk is and how it is triggered\n\n{debunk_list_str}""",
+    '/debunk_list' : f"""Here are the details of each debunk including what the debunk is and how it is triggered\n\n{debunk_list_str}\n\n/start""",
     
-    '/response' : """Automate responses based on trigger text/word\n\n/response_list""",
+    '/response' : """Automate responses based on trigger text/word\n\n/response_list\n\n/start""",
 
-    '/response_list' : f"""Here is a list of available responses\n\n{response_list_str}""",
+    '/response_list' : f"""Here is a list of available responses\n\n{response_list_str}\n\n/start""",
     
-    '/help' : f"""Whenever you get stuck type in /start to get back on track.\n\nTo Report HappyCamper for not being happy contact https://t.me/happycamperdemo""",
-    '/submit' : f"""Got your own debunk or auto-response sugestions please submit to https://t.me/happycamperdemo with @admin""",
-    '/FAQ' : f"""Got Questions? Looking for Answers?\n\n/faq_list\n\n/help""",
+    '/help' : f"""Whenever you get stuck type in /start to get back on track.\n\nTo Report HappyCamper for not being happy contact https://t.me/happycamperdemo\n\n/start""",
+    '/submit' : f"""Got your own debunk or auto-response sugestions please submit to https://t.me/happycamperdemo with @admin\n\n/start""",
+    '/FAQ' : f"""Got Questions? Looking for Answers?\n\n/faq_list\n\n/help\n\n/start""",
     '/faq_list' : faq_text,
 
 } | additional_commands_dict
