@@ -427,4 +427,30 @@ globe_debunk_dictionary = {
         
         'search_words' : ["leila", "dallas", "positive", "vibes", "negative"]
     },
+    'debunk_041': {
+        'string_list' : [
+            "russian ice princess",
+            "the winner is ice princess",
+        ],
+        'caption' : f"Evgenia! She is Ice Princess!
+🇷🇺👸🏻⛸❄️",
+        
+        'file' : 'evgenia russian ice skater 0.jpg',
+        'video' : 'evgenia russian ice skater 0.mp4',
+        
+        'search_words' : ["ice princess", "dance", "on ice", "beautiful",]
+    },
+    'debunk_042': {
+        'string_list' : [
+            "nanneke is on a coffee break",
+            "coffee break time",
+            "ice princess nanneke",
+        ],
+        'caption' : f"Evgenia's Ice Princess Sister, we introduce to you Princess Nanneke on Ice :) Happy Camper things. lol.",
+        
+        'file' : 'evgenia russian ice skater 1.jpg',
+        'video' : 'evgenia russian ice skater 1.mp4',
+        
+        'search_words' : ["nanneke", "flat earth", "riding the canal",]
+    },
 }
