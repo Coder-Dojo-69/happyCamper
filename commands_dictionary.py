@@ -40,10 +40,20 @@ for key, value in globe_debunk_dictionary.items():
 for key, value in text_response_dict.items():
     command_key = f"/{key}"
     
+    text_list_str = ""
+
+    for text in value['text']:
+
+        text_list_str += f"    - {text}\n"
+
+    comb_list_str = ""
+
+    for comb in value['text_comb']:
+
+        comb_list_str += f"  - {comb}\n"
     # Format the string for each response entry
     response_info = (
-        "Trigger Text: " + value['text'][0] + "\n" +
-        "Response: " + value['response']
+        f"Trigger Text: \n{text_list_str}\nTrigger Combinations: \n{comb_list_str}\nResponse: {value['response']}"
     )
     
     # Add the formatted string to the additional_commands_dict under the key
