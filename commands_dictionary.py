@@ -14,7 +14,7 @@ for idx, key in enumerate(globe_debunk_dictionary):
 response_list_str = ""
 
 for idx, key in enumerate(text_response_dict):
-    response_list_str += f"/{key} {text_response_dict[key]['response'][:33].capitalize()}"
+    response_list_str += f"/{key} {text_response_dict[key]['response'][:33]}"
     if idx < len(text_response_dict) - 1:
         response_list_str += "\n\n"
 
