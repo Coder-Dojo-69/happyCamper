@@ -1,5 +1,5 @@
 globe_debunk_dictionary = {
-    'debunk_001' : {
+    'debunk_001': {
         'string_list' : [
             'laws of motion',
             'its stationary and has no motion',
@@ -9,8 +9,7 @@ globe_debunk_dictionary = {
         'file' : 'einstein earth is motionless 1.jpg',
         'search_words' : ["earth", "stationary", "motion", "moving", "foundation", "move"],
     },
-
-    'debunk_002' : {
+    'debunk_002': {
         'string_list' : [
             'no aether detected',
         ],
@@ -18,8 +17,7 @@ globe_debunk_dictionary = {
         'file' : 'aether motion detection.jpg',
         'search_words' : ["aether", 'field',]
     },
-
-    'debunk_003' : {
+    'debunk_003': {
         'string_list' : [
             'vacuum next to a container',
             "Earth's atmosphere",
@@ -30,7 +28,7 @@ globe_debunk_dictionary = {
         'file' : 'violation of thermodynamics vacuum.jpg',
         'search_words' : ["vacuum", "container", "gravity",]
     },
-    'debunk_004' : {
+    'debunk_004': {
         'string_list' : [
             'prove the earth is flat',
             'we dont need to prove its a globe',
@@ -42,7 +40,7 @@ globe_debunk_dictionary = {
         'file' : 'dear globie try to prove it is a globe.jpg',
         'search_words' : ["burden", "proof",]
     },
-    'debunk_005' : {
+    'debunk_005': {
         'string_list' : [
             'gravity holds the ocean to the earth',
             'gravity pulls us to the ground',
@@ -54,7 +52,7 @@ globe_debunk_dictionary = {
         'file' : 'Edgar The Bug gravity works.jpg',
         'search_words' : ["gravity", "force",]
     },
-    'debunk_006' : {
+    'debunk_006': {
         'string_list' : [
             'married his first cousin',
             'what is special relativity',
@@ -66,7 +64,7 @@ globe_debunk_dictionary = {
         'file' : 'einstein relativity marrying your cousin 10.jpg',
         'search_words' : ["einstein", "cousin"]
     },
-    'debunk_007' : {
+    'debunk_007': {
         'string_list' : [
             'helicopter hover above',
             'earth does not rotate',
@@ -76,7 +74,7 @@ globe_debunk_dictionary = {
         'file' : 'helicopters and pendulums 1.jpg',
         'search_words' : ["hover", "above", "earth"]
     },
-    'debunk_008' : {
+    'debunk_008': {
         'string_list' : [
             "airy's failure proves earths motion",
             "measure the drag on light"
@@ -85,7 +83,7 @@ globe_debunk_dictionary = {
         'file' : 'airys failure graphic.jpg',
         'search_words' : ["failure", "airy", "prove"]
     },
-    'debunk_009' : {
+    'debunk_009': {
         'string_list' : [
             "define level",
         ],
@@ -93,7 +91,7 @@ globe_debunk_dictionary = {
         'file' : 'water level curving water generated water.jpg',
         'search_words' : ["level", "water",]
     },
-    'debunk_010' : {
+    'debunk_010': {
         'string_list' : [
             "there is no curve",
             "the earth has curvature"
@@ -102,7 +100,7 @@ globe_debunk_dictionary = {
         'file' : 'no curvature up or down.jpg',
         'search_words' : ["curv", "level", "horizon"]
     },
-    'debunk_011' : {
+    'debunk_011': {
         'string_list' : [
             "flat earth is debunked",
             "earth is not flat",
@@ -112,7 +110,7 @@ globe_debunk_dictionary = {
         'file' : 'flat earth crazy globe earth normal.jpg',
         'search_words' : ["flat", "crazy"]
     },
-    'debunk_012' : {
+    'debunk_012': {
         'string_list' : [
             "water finds its level",
             "water does not stick to a ball",
@@ -122,7 +120,7 @@ globe_debunk_dictionary = {
         'file' : 'edgar the bug globetard logic.jpg',
         'search_words' : ["globe", "logic"]
     },
-    'debunk_013' : {
+    'debunk_013': {
         'string_list' : [
             "what flat earth evidence",
             "head in the sand",
@@ -132,7 +130,7 @@ globe_debunk_dictionary = {
         'file' : 'flat earth evidence head in sand.jpg',
         'search_words' : ["evidence", "flat"]
     },
-    'debunk_014' : {
+    'debunk_014': {
         'string_list' : [
             "are you retarded",
             "kicked in the head",
@@ -142,7 +140,7 @@ globe_debunk_dictionary = {
         'file' : 'Edgar The Bug template retarded telegram.jpg',
         'search_words' : ["are", "retarded",]
     },
-    'debunk_015' : {
+    'debunk_015': {
         'string_list' : [
             "you're so racist",
             "you're a hater",
@@ -151,7 +149,7 @@ globe_debunk_dictionary = {
         'file' : 'hitler race relations.jpg',
         'search_words' : ["racist", "that",]
     },
-    'debunk_016' : {
+    'debunk_016': {
         'string_list' : [
             "easier to fool people",
             "moon landing",
@@ -163,7 +161,7 @@ globe_debunk_dictionary = {
         'file' : 'easier to fool people than convince them.jpg',
         'search_words' : ["fool", "easy",]
     },
-    'debunk_017' : {
+    'debunk_017': {
         'string_list' : [
             "heliocentrism is a religion",
         ],
@@ -191,7 +189,6 @@ globe_debunk_dictionary = {
         
         'search_words' : ["antarctic", "treaty", "war", "enemies"]
     },
-
     'debunk_020': {
         'string_list' : [
             "we made it to the moon jump flag",
