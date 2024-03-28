@@ -432,8 +432,7 @@ globe_debunk_dictionary = {
             "russian ice princess",
             "the winner is ice princess",
         ],
-        'caption' : f"Evgenia! She is Ice Princess!
-🇷🇺👸🏻⛸❄️",
+        'caption' : f"Evgenia! She is Ice Princess!",
         
         'file' : 'evgenia russian ice skater 0.jpg',
         'video' : 'evgenia russian ice skater 0.mp4',
