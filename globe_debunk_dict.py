@@ -453,4 +453,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["nanneke", "flat earth", "riding the canal",]
     },
+    'debunk_043': {
+        'string_list' : [
+            "path of the sun",
+            "the local sun",
+        ],
+        'caption' : f"Analemma proves the sun is small and local and that the Earth does not move. The path represents the Suns transverse from the Tropic of Capricorn to the Tropic of Cancer.",
+        
+        'file' : "Analemma proves the sun is small and local the Earth doesn't move.jpg",
+        'video' : "Analemma proves the sun is small and local the Earth doesn't move.mp4",
+        
+        'search_words' : ["",]
+    },
 }
