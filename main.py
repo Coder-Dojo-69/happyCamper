@@ -53,7 +53,7 @@ async def command_handler(update: Update, context: CallbackContext):
 
 def handle_response(text: str) -> str:
 
-    processed: str = text.lower()
+    processed: str = text[:333].lower()
 
     # for key, text_response in text_response_dict.items():
         
