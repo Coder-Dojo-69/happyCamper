@@ -30,7 +30,7 @@ for key, value in globe_debunk_dictionary.items():
         "Phrase Trigger List:\n    - " + ",\n    - ".join(value['string_list']) + "\n\n" +
         "Caption: \"" + value['caption'] + "\"\n\n" +
         "File: \"" + value['file'] + "\"\n\n" +
-        "*Combination Words: '" + "', '".join(value['search_words']) + "'" +"\n\n*Combine 2 or more words to trigger HappyCamper response"
+        "*Combination Words: '" + "', '".join(value['search_words']) + "'" +"\n\n*Combine 2 or more words to trigger HappyCamper response\n\n/start"
     )
 
     # Add the formatted string to the additional_commands_dict under the key
@@ -53,7 +53,7 @@ for key, value in text_response_dict.items():
         comb_list_str += f"  - {comb}\n"
     # Format the string for each response entry
     response_info = (
-        f"Trigger Text: \n{text_list_str}\nTrigger Combinations: \n{comb_list_str}\nResponse: {value['response']}"
+        f"Trigger Text: \n{text_list_str}\nTrigger Combinations: \n{comb_list_str}\nResponse: {value['response']}\n\n/start"
     )
     
     # Add the formatted string to the additional_commands_dict under the key
