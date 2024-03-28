@@ -42,7 +42,7 @@ for key, value in text_response_dict.items():
     
     # Format the string for each response entry
     response_info = (
-        "Trigger Text: " + value['text'] + "\n" +
+        "Trigger Text: " + value['text'][0] + "\n" +
         "Response: " + value['response']
     )
     
