@@ -461,7 +461,7 @@ globe_debunk_dictionary = {
         'caption' : f"Analemma proves the sun is small and local and that the Earth does not move. The path represents the Suns transverse from the Tropic of Capricorn to the Tropic of Cancer.",
         
         'file' : "analemma proves the sun is small and local.jpg",
-        'video' : " analemma proves the sun is small and local.MP4",
+        'video' : "analemma proves the sun is small and local.MP4",
         
         'search_words' : ["sun", "season", "capricorn", "cancer", "analemma",]
     },
