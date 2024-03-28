@@ -407,12 +407,13 @@ globe_debunk_dictionary = {
     },
     'debunk_039': {
         'string_list' : [
-            "blame white people", "because of white people",
+            "is the earth a globe", "happy black people",
         ],
-        'caption' : f"Because its so easy these days",
+        'caption' : f"Is the Earth a Globe?",
         
-        'file' : 'there has to be a way to blame white people.jpg',
+        'file' : 'sha nay nay no way nigger.jpg',
+        'video' : 'sha nay nay no way nigger.mp4',
         
-        'search_words' : ["nigger", "happy", "blame",]
+        'search_words' : ["nigger", "happy", "blame", "sha", "nay", "no way",]
     },
 }
