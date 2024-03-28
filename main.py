@@ -55,11 +55,31 @@ def handle_response(text: str) -> str:
 
     processed: str = text.lower()
 
-    for key, text_response in text_response_dict.items():
+    # for key, text_response in text_response_dict.items():
         
-        if text_response['text'] in processed:
+    #     if text_response['text'] in processed:
 
-            return text_response['response']
+    #         return text_response['response']
+        
+    # Flag to track if a response has been sent
+    response_sent = False
+    
+    for key, values in text_response_dict.items():
+        text = values['text']
+        text_comb = values['text_comb']
+        text_response = values['response']
+
+        for text_string in text:
+            if text_string.lower() in processed.lower() and not response_sent:
+                
+                response_sent = True  # Set the flag to True
+
+                return text_response
+
+        if sum(word.lower() in processed.lower() for word in text_comb) >= 2 and not response_sent:
+            response_sent = True  # Set the flag to True
+            
+            return text_response
 
     # if 'motion of the earth' in processed:
         # return f'they tried to measure the motion of the earth but failed in the Michaelson Morley experiment using interferometry and mirrors to measure displacement of light as it "motioned" through the Aether'
