@@ -553,7 +553,7 @@ globe_debunk_dictionary = {
         'caption' : f"Speak No Evil. See No Evil. Hear No Evil. NASA is not just a Space Agency. They're domain is infininite. So this thing you call space? What are its attributes?",
         
         'file' : 'masons see hear speak no evil.jpg',
-        'video' : '.mp4',
+        
         
         'search_words' : ["the mason's", "the masons", "nasa", "speak no evil", "see no evil", "hear no evil",]
     },
