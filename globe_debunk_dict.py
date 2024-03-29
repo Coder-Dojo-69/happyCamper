@@ -564,7 +564,6 @@ globe_debunk_dictionary = {
         'caption' : f"So they can fool you into thinking that there are other worlds much like ours. When in reality you are the extradimension of the jewel of life.\n\nGravity is the key to their lies. Gravity is not a force but an idea of reality.\n\nBut in reality relativity needs absolutes. It can't just all be relative.",
         
         'file' : 'matrix dream world.jpg',
-        'video' : 'no video.mp4',
         
         'search_words' : ["matrix dream", "upside down", "meanwhile in", "australia", "southern hemisphere",]
     },
