@@ -626,7 +626,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Dark Matter and Dark Energy as well as the exploratin of Quantum Physics are all placeholders for more theories than is necessary to Explain the Cosmology we see before us.\n\nWill we ever achieve faster than light travel?\n\nOn Flat Earth we are asking if there will be other realms and can we get there.\n\nThat is the difference.",
         
-        'video' : 'polaris spinning sky.mp4',
+        'video' : 'polaris spinning sky.MP4',
         
         'search_words' : ["slow timelapse", "i would love", "watch_sky", "heavens above", "rotate",]
     },
