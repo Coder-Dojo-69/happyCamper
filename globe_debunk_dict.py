@@ -475,4 +475,13 @@ globe_debunk_dictionary = {
         
         'search_words' : ["jeremy", "teacher", "question", "class",]
     },
+    'debunk_045': {
+        'string_list' : [
+            "there are no flat surfaces", "reflections on flat earth", "flat surfaces found on earth",
+        ],
+        'caption' : f"The Bolivian Salt Flats\n\n4,000 SQ. MI. OF Zero Curvature",
+        
+        'video' : 'bolivian salt flats zero curvature.mp4',        
+        'search_words' : ["surface", "reflections", "bolivian", "salt", "surfing guy", "surf the surface"]
+    },
 }
