@@ -546,4 +546,15 @@ globe_debunk_dictionary = {
         
         'search_words' : ["magnify the power", "magnify the sun", "generate", "light waves", "burning rock",]
     },
+    'debunk_052': {
+        'string_list' : [
+            "who are the mason", "why is it the mason", "nasa and mason", "mason's and nasa", "masons and nasa",
+        ],
+        'caption' : f"Speak No Evil. See No Evil. Hear No Evil. NASA is not just a Space Agency. They're domain is infininite. So this thing you call space? What are its attributes?",
+        
+        'file' : 'masons see hear speak no evil.jpg',
+        'video' : '.mp4',
+        
+        'search_words' : ["the mason's", "the masons", "nasa", "speak no evil", "see no evil", "hear no evil",]
+    },
 }
