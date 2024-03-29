@@ -484,4 +484,56 @@ globe_debunk_dictionary = {
         'video' : 'bolivian salt flats zero curvature.mp4',        
         'search_words' : ["surface", "reflections", "bolivian", "salt", "surfing guy", "surf the surface"]
     },
+    'debunk_046': {
+        'string_list' : [
+            "buoyancy and density explains gravity", "why do things sink", "why do things float", "the medium of density",
+        ],
+        'caption' : f"Buoyancy and Density are not too hard to spell lol. But really buoyancy and density is why things fall. You cant be so dense to think otherwise. Lets go travel to the next star system lol.",
+        
+        'file' : 'boyancy and density explains gravity.jpg',
+        
+        'search_words' : ["buoyancy", "density", "gravity"]
+    },
+    'debunk_047': {
+        'string_list' : [
+            "coriolis effect with flat earth model and anodes", "what causes wind", "what causes tides", "explain the jetstreams",
+        ],
+        'caption' : f"Coriolis effect with flat earth model and using anodes as the Magnetic Pole to simulate 'Earth's Magnetic Field'.",
+        
+        'file' : '.jpg',
+        'video' : 'coriolis effect with flat earth model and anodes.mp4',
+        
+        'search_words' : ["coriolis effect", "model", "anodes", "causes",]
+    },
+    'debunk_048': {
+        'string_list' : [
+            "fake ass globe ball with oceans", "ball sticking water", "water sticking to ball", "planet ocean world",
+        ],
+        'caption' : f"In 87 light years we will someday never reach Aquanora to explore its oceans. We will swim great times and deep dive as I ascend to higher water to finally see the light of the sun.",
+        
+        'file' : 'fake ass globe ball with oceans.jpg',
+        
+        'search_words' : ["planet ocean", "ocean world", "ball of water", "ocean", "spinning ball", "water on",]
+    },
+    'debunk_049': {
+        'string_list' : [
+            "green skin alien chick with partner", "lets go to space", "let's go on a space date", "someday we will reach the stars together", "make space babies", "i found my space alien partner",
+        ],
+        'caption' : f"Come lets us go make man in our image as we hold hands and explore the galactic universe all at once and for all. Dont forget to hold hands. Our love will span the stars for all time.",
+        
+        'file' : 'green skin alien chick 1.jpg',
+        
+        'search_words' : ["green skin", "alien", "hands", "space lovers",]
+    },
+    'debunk_050': {
+        'string_list' : [
+            "hot air balloons prove no gravity in turkey", "what about hot air balloon", "we should be able to hover", "get on a hot air balloon",
+        ],
+        'caption' : f"Gravity as as force that pulls matter to its centre of mass is farcical given that the vacuum of space is infinitely more vast than the Atmosphere. Dear Cosmologists. We no longer can say with a straight face that Gravity pulls the atmosphere to us in a Cosmology of infininte space. We're in the infinite space. That is what you are not getting.",
+        
+        'file' : '.jpg',
+        'video' : 'hot air balloons prove no gravity in turkey.mp4',
+        
+        'search_words' : ["hotair balloons", "float in air", "rotate", "spin", "atmosphere",]
+    },
 }
