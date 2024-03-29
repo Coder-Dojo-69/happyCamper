@@ -729,6 +729,39 @@ globe_debunk_dictionary = {
         
         'search_words' : ["24 hour", "midnight", "antarctic sun",]
     },
+    'debunk_070': {
+        'string_list' : [
+            "fake nasa gravity", "in the vacuum of space", "floating water", "zero gravity",
+        ],
+        'caption' : f"Sometimes I wish there were zero gravity at sea level range. That would be cool. Lets make believe together",
+        
+        'file' : '.jpg',
+        'video' : 'Fake NASA cgi gravity on earth garden.mp4',
+        
+        'search_words' : ["gravity", "fake people", "fake world", "fake things", "fake world", "zero gravity", "float", "space",]
+    },
+    'debunk_071': {
+        'string_list' : [
+            "google ai suggest", "moon landing photo", "man walks on moon", "space is fake",
+        ],
+        'caption' : f"You can fool people. Question is: can we fool AI?",
+        
+        'file' : 'google ai suggest moon landing photos fake.jpg',
+        
+        'search_words' : ["photo", "moon", "land", "google", "google ai", "fake",]
+    },
+    'debunk_072': {
+        'string_list' : [
+            "its photoshopped", "it's photoshopped", "but it has to be", "space is fake and gay", "no real photo", "nasa is fake",
+        ],
+        'caption' : f"Is it too much to ask to put an Iphone Camera at the back of one of these sattelites and space telescopes they got out there in space?",
+        
+        'file' : 'its photoshopped but it has to be.jpg',
+        
+        'search_words' : ["nasa lie", "photoshopped", "cgi", "fake photo", "render",]
+    },
+
+
 }
 
 
