@@ -44,6 +44,7 @@ async def command_handler(update: Update, context: CallbackContext):
     command = update.message.text.split()[0]  #: Extract the command from the message
     command = command.replace(BOT_USERNAME, '').strip()  # Remove the bot's username if present
     if command in commands_dict:
+        print(command, 'this is the command')
 
         if '/debunk_' in command:
             
