@@ -557,4 +557,15 @@ globe_debunk_dictionary = {
         
         'search_words' : ["the mason's", "the masons", "nasa", "speak no evil", "see no evil", "hear no evil",]
     },
+    'debunk_053': {
+        'string_list' : [
+            "matrix dream world up side down", "what's going on in the southern", "whats going on in the southern", "world is upside down", "life is upside down",
+        ],
+        'caption' : f"So they can fool you into thinking that there are other worlds much like ours. When in reality you are the extradimension of the jewel of life.\n\nGravity is the key to their lies. Gravity is not a force but an idea of reality.\n\nBut in reality relativity needs absolutes. It can't just all be relative.",
+        
+        'file' : 'matrix dream world.jpg',
+        'video' : 'no video.mp4',
+        
+        'search_words' : ["matrix dream", "upside down", "meanwhile in", "australia", "southern hemisphere",]
+    },
 }
