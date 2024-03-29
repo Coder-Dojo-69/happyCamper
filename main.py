@@ -45,23 +45,23 @@ async def command_handler(update: Update, context: CallbackContext):
     command = command.replace(BOT_USERNAME, '').strip()  # Remove the bot's username if present
     if command in commands_dict:
 
-        if 'debunk_' in command:
+        if '/debunk_' in command:
             
-            if 'video' in globe_debunk_dictionary[command]:
+            if 'video' in globe_debunk_dictionary[command[1:]]:
                 
-                debunk_video = globe_debunk_dictionary[command]['video']
-                video_path = f"{system_path_vid}{debunk_video}"
-                if os.path.exists(video_path):
+                debunk_media = globe_debunk_dictionary[command[1:]]['video']
+                media_path = f"{system_path_vid}{debunk_media}"
+                if os.path.exists(media_path):
                     await update.message.reply_video(
-                        video=open(video_path, 'rb'),
+                        video=open(media_path, 'rb'),
                         caption=commands_dict[command]
                     )
             else:
-                debunk_image = globe_debunk_dictionary[command]['file']
-                image_path = f"{system_path_vid}{debunk_image}"
-                if os.path.exists(image_path):
+                debunk_media = globe_debunk_dictionary[command[1:]]['file']
+                media_path = f"{system_path}{debunk_media}"
+                if os.path.exists(media_path):
                     await update.message.reply_photo(
-                        photo=open(image_path, 'rb'),
+                        photo=open(media_path, 'rb'),
                         caption=commands_dict[command]
                     )
         else:
