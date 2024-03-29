@@ -162,15 +162,17 @@ async def handle_message(update: Update, context: CallbackContext):
                 else:
                     print("Image file not found.")
 
-                if video_file:
-                    video_path = f"{system_path_vid}{video_file}"
-                    if os.path.exists(video_path):
-                        await update.message.reply_video(
-                            video=open(video_path, 'rb'),
-                            caption=caption)
-                        response_sent = True  # Set the flag to True
+                    if video_file:
+                        video_path = f"{system_path_vid}{video_file}"
+                        if os.path.exists(video_path):
+                            await update.message.reply_video(
+                                video=open(video_path, 'rb'),
+                                caption=caption)
+                            response_sent = True  # Set the flag to True
+                        else:
+                            print("Video file not found.")
                     else:
-                        print("Video file not found.")
+                        print("No image or video found")
 
         if sum(word.lower() in text.lower() for word in search_words) >= 2 and not response_sent:
             if video_file:
