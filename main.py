@@ -1,4 +1,5 @@
 import os
+import re
 from typing import Final
 from telegram import Update
 from telegram.constants import ParseMode
@@ -43,30 +44,39 @@ async def start_command(update: Update, context: CallbackContext):
 async def command_handler(update: Update, context: CallbackContext):
     command = update.message.text.split()[0]  #: Extract the command from the message
     command = command.replace(BOT_USERNAME, '').strip()  # Remove the bot's username if present
-    if command in commands_dict:
-        print(command, 'this is the command')
+    
 
-        if '/debunk_' in command:
-            
-            if 'video' in globe_debunk_dictionary[command[1:]]:
+    if command in commands_dict:
+        # Define the regex pattern to match "/debunk_xxx"
+        pattern = r"/debunk_\d{3}"
+        
+        # Use re.match() to find matches
+        match = re.match(pattern, command)
+        if match:
+            print(command, 'this is the command')
+
+            if command[1:] in globe_debunk_dictionary:
                 
-                debunk_media = globe_debunk_dictionary[command[1:]]['video']
-                media_path = f"{system_path_vid}{debunk_media}"
-                if os.path.exists(media_path):
-                    await update.message.reply_video(
-                        video=open(media_path, 'rb'),
-                        caption=commands_dict[command]
-                    )
-            else:
-                debunk_media = globe_debunk_dictionary[command[1:]]['file']
-                media_path = f"{system_path}{debunk_media}"
-                if os.path.exists(media_path):
-                    await update.message.reply_photo(
-                        photo=open(media_path, 'rb'),
-                        caption=commands_dict[command]
-                    )
+                if 'video' in globe_debunk_dictionary[command[1:]]:
+                    
+                    debunk_media = globe_debunk_dictionary[command[1:]]['video']
+                    media_path = f"{system_path_vid}{debunk_media}"
+                    if os.path.exists(media_path):
+                        await update.message.reply_video(
+                            video=open(media_path, 'rb'),
+                            caption=commands_dict[command]
+                        )
+                else:
+                    debunk_media = globe_debunk_dictionary[command[1:]]['file']
+                    media_path = f"{system_path}{debunk_media}"
+                    if os.path.exists(media_path):
+                        await update.message.reply_photo(
+                            photo=open(media_path, 'rb'),
+                            caption=commands_dict[command]
+                        )
         else:
             await update.message.reply_text(commands_dict[command])
+    
     else:
         await update.message.reply_text("Command not found.")
 
