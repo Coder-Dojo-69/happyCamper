@@ -464,7 +464,7 @@ globe_debunk_dictionary = {
     },
     'debunk_044': {
         'string_list' : [
-            "ask the wrong question,",
+            "ask the wrong question",
             "what happens in class",
             "teacher has a break down"
         ],
@@ -567,4 +567,174 @@ globe_debunk_dictionary = {
         
         'search_words' : ["matrix dream", "upside down", "meanwhile in", "australia", "southern hemisphere",]
     },
+
+    'debunk_054': {
+        'string_list' : [
+            "do not try to defeat", "the truth is there is no globe", "there is no globalims",
+        ],
+        'caption' : f"Because their globe gives them something to horde. The earth as an eclosed system where each thing is but one aspect of the grand design is who realm dynamics works.",
+        
+        'file' : 'matrix there is no globe.jpg',
+        
+        'search_words' : ["try to defeat", "truth is there", "no globalism", "what truth", "there is no globe", "matrix",]
+    },
+    'debunk_055': {
+        'string_list' : [
+            "nasa creates a black hole", "nature of black holes", "what is a black hole", "nasa cgi black hole",
+        ],
+        'caption' : f"Yes. They are mocking you. They are not informing you. They are openly laughing in your face as they horde all the resources under the assumption that the earth is limited to the Ice Wall and where Oil Comes from.\n\n If the Earth is not a ball then many areas of scientific endeavour will see with a new focus. That is the steaks of the disinfomation and misinformation",
+        
+        'file' : 'nasa creates a black hole.jpg',
+        
+        'search_words' : ["black whole", "nasa shows", "picture of black hole", "cgi image",]
+    },
+    'debunk_056': {
+        'string_list' : [
+            "not gone back to the moon", "have not been back to the moon", "why has it taken so long to go back to the moon", "what happened to the lunar module", "they lost the tapes",
+        ],
+        'caption' : f"I dont know about you but how did these rocket scientist graduate primary school with these excuses for de-progressing from where we started. If our technology is greater then 50+ of no lander rovers on the Moon is failure at best, outright lie at worst.",
+        
+        'file' : 'nasa goes back to the moon in heartbeat but we lost the technology.jpg',
+        
+        'search_words' : ["go back to the moon", "nasa technology", "nasa", "explore the moon",]
+    },
+    'debunk_057': {
+        'string_list' : [
+            "will we find life",
+            "are we alone",
+            "are aliens real", "are alien's real",
+        ],
+        'caption' : f"Even if we could travel to other star systems. What's wrong with the Aliens you see everyday when you walk out your door",
+        
+        'file' : 'nasa warns that alien life might not be fuckable.jpg',
+        
+        'search_words' : ["exotic aliens", "nasa warns", "nasa says", "alien life", "make out"]
+    },
+    'debunk_058': {
+        'string_list' : [
+            "no way to prove globe earth", "globe earth does not demonstrate", "globe earth does not prove", "globe earth prove",
+        ],
+        'caption' : f"All the things that we take for assumptions regarding our cosmology do not always behave as predicted by General Relativity and the cosmology by which we explore this journey of life.",
+        
+        'file' : 'no way to prove globe earth.jpg',
+        
+        'search_words' : ["proof that earth", "spinning ball", "proof", "evidence", "proves", "claims"]
+    },
+    'debunk_059': {
+        'string_list' : [
+            "polaris has remained", "why does polaris not move", "the spinning sky", "sky timelapse at night", "slow sky timelapse",
+        ],
+        'caption' : f"Dark Matter and Dark Energy as well as the exploratin of Quantum Physics are all placeholders for more theories than is necessary to Explain the Cosmology we see before us.\n\nWill we ever achieve faster than light travel?\n\nOn Flat Earth we are asking if there will be other realms and can we get there.\n\nThat is the difference.",
+        
+        'video' : 'polaris spinning sky.mp4',
+        
+        'search_words' : ["slow timelapse", "i would love", "watch_sky", "heavens above", "rotate",]
+    },
+    'debunk_060': {
+        'string_list' : [
+            "flat earth is retarded", "flat earth is dumb", "flat earthers are retarded", "flat earther's are retarded", "flat earthers are dumb", "flat earther's are dumb", "globe is superior", "no one likes to be wrong",
+        ],
+        'caption' : f"Globbies are the most gulliball people on the flat earth. They excel at being able to be fooled.",
+        
+        'file' : 'protons electrons neutrons and morons lol.jpg',
+        
+        'search_words' : ["dumb flat earth", "think people", "you're a moron", "your a moron", "you are a moron", "you're stupid", "that is", "globe nonsense"]
+    },
+    'debunk_061': {
+        'string_list' : [
+            "you spin me out", "you spin me right round", "you're a spinner", "watch the earth rotate", "watch the spin",
+        ],
+        'caption' : f"You spin me righ round, right round like a record right round round round like a record right round baby right round",
+        
+        'video' : 'rotating human earth.mp4',
+        
+        'search_words' : ["spinning girl", "trigger the", "right round", "spin round", "spinning earth", "rotate"]
+    },
+    'debunk_062': {
+        'string_list' : [
+            "show me the curve", "reflection of the sky", "blue sky ocean", "salt flat no curve",
+        ],
+        'caption' : f"The View is pretty Majestic dont you think?",
+        
+        'video' : 'salt flats no curve reflect the sky.mp4',
+        
+        'search_words' : ["bolivian salt", "bicycle ride", "shallow water", "ride", "riding", "blue sky", "the sky", "white",]
+    },
+    'debunk_063': {
+        'string_list' : [
+            "stargazing in australia", "look down in the sky", "pointing down at the sky"
+        ],
+        'caption' : f"What is the force that will allows these people to hang on the ground?",
+        
+        'file' : 'star gazing in australia.jpg',
+        
+        'search_words' : ["point to", "the stars", "upside down", "clown world", "falling"]
+    },
+    'debunk_064': {
+        'string_list' : [
+            "star gazing at the night sky", "the heavens move", "double up sky", "double up ground", "reflect the ground",
+        ],
+        'caption' : f"The Stars and the heavens just mean that our place in the heavens is truly unique. Each person you meet is but one dimension. Lets also not forget about the animals. There is a cat you by the way.",
+        
+        'video' : 'The Bolivian Salt Flats.mp4',
+        
+        'search_words' : ["stary night", "glorious night", "night sky", "stars in", "reflected stars", "rotating",]
+    },
+    'debunk_065': {
+        'string_list' : [
+            "flat earth map logo", "why are all these maps", "why are the logos", "signs and symbols will be their downfall",
+        ],
+        'caption' : f"Its funny who truthers always say that signs and symbols will be their downfall. Its funny because many truthers have yet to see the signs and symbols in the places where its all hidden in plane sight. lol.",
+        
+        'file' : 'those who control the globe have a flat earth map 2 un.jpg',
+        
+        'search_words' : ["united nations", "are dogs", "global agencies", "logo", "antarctica",]
+    },
+    'debunk_066': {
+        'string_list' : [
+            "who likes trudeau", "trudeau is a fag", "fidel castro's son", "why don't they like flat earth", "why dont they like flat earth",
+        ],
+        'caption' : f"This guy. Globe earthers are on his side.",
+        
+        'file' : 'trudeau online disinformation fuels flat earthers and antivaxxers.jpg',
+
+        'search_words' : ["trudeau", "fidel", "flat earthers", "anti-vaxxers", "the jab",]
+    },
+    'debunk_067': {
+        'string_list' : [
+            "the earth does not rotate", "volcano smoke stack", "volcano on the horizon",
+        ],
+        'caption' : f"Apparently the earth below you rotates at 1000mph. The smoke stack is obviously connected to the volcano. But Gravity.",
+        
+        'video' : 'volcano smoke stack proves the earth does not rotate video.mp4',
+        
+        'search_words' : ["volcano", "smoke stack", "rotating", "cloud sky", "above the cloud", "grand nature",]
+    },
+    'debunk_068': {
+        'string_list' : [
+            "do not research", "go and do research", "where is your research", "research is a trigger word",
+        ],
+        'caption' : f"Suddenly Reductive Thinking and Logical Training is a class of people with fancy papers to their names. That's what they want you to believe.",
+        
+        'file' : 'you must not do your own research.jpg',
+        
+        'search_words' : ["forbes", "mainstream", "do not research", "when it comes to science", "science matters", "science expert",]
+    },
 }
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
