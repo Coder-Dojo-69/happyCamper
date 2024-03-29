@@ -44,7 +44,28 @@ async def command_handler(update: Update, context: CallbackContext):
     command = update.message.text.split()[0]  #: Extract the command from the message
     command = command.replace(BOT_USERNAME, '').strip()  # Remove the bot's username if present
     if command in commands_dict:
-        await update.message.reply_text(commands_dict[command])
+
+        if 'debunk_' in command:
+            
+            if 'video' in globe_debunk_dictionary[command]:
+                
+                debunk_video = globe_debunk_dictionary[command]['video']
+                video_path = f"{system_path_vid}{debunk_video}"
+                if os.path.exists(video_path):
+                    await update.message.reply_video(
+                        video=open(video_path, 'rb'),
+                        caption=commands_dict[command]
+                    )
+            else:
+                debunk_image = globe_debunk_dictionary[command]['file']
+                image_path = f"{system_path_vid}{debunk_image}"
+                if os.path.exists(image_path):
+                    await update.message.reply_photo(
+                        photo=open(image_path, 'rb'),
+                        caption=commands_dict[command]
+                    )
+        else:
+            await update.message.reply_text(commands_dict[command])
     else:
         await update.message.reply_text("Command not found.")
 
