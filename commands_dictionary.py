@@ -29,6 +29,7 @@ for key, value in globe_debunk_dictionary.items():
     debunk_info = (
         "Trigger Phrase List:\n    - " + ",\n    - ".join(value['string_list']) + "\n\n" +
         "Caption: \"" + value['caption'] + "\"\n\n" +
+        # "File: \"" + value['file'] + "\"\n\n" +
         "*Combination Words: '" + "', '".join(value['search_words']) + "'" +"\n\n*Combine 2 or more words to trigger HappyCamper response\n\n/start"
     )
 
