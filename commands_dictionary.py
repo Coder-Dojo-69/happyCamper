@@ -87,7 +87,7 @@ commands_dict = {
     
     '/debunk_list' : f"""Here are the details of each debunk including what the debunk is and how it is triggered\n\n{debunk_list_str}\n\n/start""",
     
-    '/response' : """Automate responses based on trigger text/word\n\n/response_list\n\n/start""",
+    '/response' : """Automated responses based on trigger text/word\n\n/response_list\n\n/start""",
 
     '/response_list' : f"""Here is a list of available responses\n\n{response_list_str}\n\n/start""",
     

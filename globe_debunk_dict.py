@@ -462,4 +462,17 @@ globe_debunk_dictionary = {
         
         'search_words' : ["sun", "season", "capricorn", "cancer", "analemma",]
     },
+    'debunk_044': {
+        'string_list' : [
+            "ask the wrong question,",
+            "what happens in class",
+            "teacher has a break down"
+        ],
+        'caption' : f"Some questions you just cant ask. Like how come its taken 50+ years to get a working rover on the Moon?",
+        
+        'file' : 'ask the wrong question.jpg',
+        'video' : 'ask the wrong question.mp4',
+        
+        'search_words' : ["jeremy", "teacher", "question", "class",]
+    },
 }
