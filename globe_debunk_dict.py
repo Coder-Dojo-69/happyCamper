@@ -521,7 +521,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Come lets us go make man in our image as we hold hands and explore the galactic universe all at once and for all. Dont forget to hold hands. Our love will span the stars for all time.",
         
-        'file' : 'green skin alien chick 1.jpg',
+        'file' : 'green skin alien chick.jpg',
         
         'search_words' : ["green skin", "alien", "hands", "space lovers",]
     },
