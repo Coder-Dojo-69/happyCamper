@@ -154,6 +154,7 @@ async def handle_message(update: Update, context: CallbackContext):
         for debunk_string in string_list:
             if debunk_string.lower() in text.lower() and not response_sent:
                 image_path = f"{system_path}{image_file}"
+                print(image_path)
                 if os.path.exists(image_path):
                     await update.message.reply_photo(
                         photo=open(image_path, 'rb'),
