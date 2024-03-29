@@ -536,4 +536,14 @@ globe_debunk_dictionary = {
         
         'search_words' : ["hotair balloons", "float in air", "rotate", "spin", "atmosphere",]
     },
+    'debunk_051': {
+        'string_list' : [
+            "power of the sun", "how does the sun work", "plasma of light",
+        ],
+        'caption' : f"What we experience as light is an excitation in the Aether caused by the field of perturbations of the electromagnetic frequency which can be magnified.",
+        
+        'video' : 'magnifying the power of the sun using lens mirror.mp4',
+        
+        'search_words' : ["magnify the power", "magnify the sun", "generate", "light waves", "burning rock",]
+    },
 }
