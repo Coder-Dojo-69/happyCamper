@@ -382,7 +382,7 @@ globe_debunk_dictionary = {
     },
     'debunk_037': {
         'string_list' : [
-            "in space no one can hear you screem",
+            "in space no one can hear you scream",
             "all alone in space",
             "higher earth orbit",
         ],
@@ -567,10 +567,9 @@ globe_debunk_dictionary = {
         
         'search_words' : ["matrix dream", "upside down", "meanwhile in", "australia", "southern hemisphere",]
     },
-
     'debunk_054': {
         'string_list' : [
-            "do not try to defeat", "the truth is there is no globe", "there is no globalims",
+            "do not try to defeat", "the truth is there is no globe", "there is no global",
         ],
         'caption' : f"Because their globe gives them something to horde. The earth as an eclosed system where each thing is but one aspect of the grand design is who realm dynamics works.",
         
@@ -720,7 +719,18 @@ globe_debunk_dictionary = {
         
         'search_words' : ["forbes", "mainstream", "do not research", "when it comes to science", "science matters", "science expert",]
     },
+    'debunk_069': {
+        'string_list' : [
+            "24 hour antarctic sun", "antarctic midnight sun",
+        ],
+        'caption' : f"When they claim that the 24 Hour Midnight Sun Proves the globe it just means that they're assuming there is no other way for things to work. The fact is we dont know everything about the cosmology of reality but to assume that only a 24 midnight sun can work on a globe is dishonest",
+        
+        'video' : 'fast earth model with 24 hour midnight sun.mp4',
+        
+        'search_words' : ["24 hour", "midnight", "antarctic sun",]
+    },
 }
+
 
 """
 
