@@ -511,7 +511,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"In 87 light years we will someday never reach Aquanora to explore its oceans. We will swim great times and deep dive as I ascend to higher water to finally see the light of the sun.",
         
-        'file' : 'fake ass globe ball with oceans.jpg',
+        'video' : 'fake ass globe ball with oceans.mp4',
         
         'search_words' : ["planet ocean", "ocean world", "ball of water", "ocean", "spinning ball", "water on",]
     },
