@@ -756,7 +756,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Is it too much to ask to put an Iphone Camera at the back of one of these sattelites and space telescopes they got out there in space?",
         
-        'file' : 'its photoshopped but it has to be.jpg',
+        'file' : 'its photoshopped but it has to be.png',
         
         'search_words' : ["nasa lie", "photoshopped", "cgi", "fake photo", "render",]
     },
