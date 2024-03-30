@@ -760,6 +760,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["nasa lie", "photoshopped", "cgi", "fake photo", "render",]
     },
+    'debunk_073': {
+        'string_list' : [
+            "mitchio kaku said", "mitchio kaku say", "science is off", "science has errors", "science is not settled",
+        ],
+        'caption' : f"There is a crisis in cosmology because the numbers they gave us have been demonstrated to be very outlandish.They got nothing.\n\nThe speed of light is assumed to be the speed of something that is not particle and not a wave and is a particle and is wave.\n\nHelioism is mumbo jumbo pseudo scientific endeavor of confusion.\n\nThere are absolutes. Relativity cannot be relative to everything else when it comes to velocity.\n\nThe current cosmology is off by a factor of gazillions.",
+        
+        'file' : 'mitchio kaku on science error.jpg',
+        
+        'search_words' : ["mitchio kaku", "kaku", "said", "error in science", "scientific error", "the science"]
+    },
 
 
 }
