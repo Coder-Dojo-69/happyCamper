@@ -79,9 +79,9 @@ for key, value in faq_dict.items():
     
 commands_dict = {
     
-    '/start' : """Welcome to Camper Bot\n\nNavigation Commands:\n\n/start\n     /about\n/debunk\n     /debunk_list\n/response\n    /response_list\n/help\n   /submit\n   /FAQ\n\nTo Test HappyCamper visit the demo group at: https://t.me/happycamperdemo""",
+    '/start' : """Welcome to Camper Bot\n\nNavigation Commands:\n\n/start\n     /about\n/debunk\n     /debunk_list\n/response\n    /response_list\n/help\n   /submit\n   /FAQ\n\nTo Test HappyCamper visit the demo group at: https://t.me/happycamperdemo\n\nVisit the creators telegram channel at https://t.me/dojo_isms""",
     
-    '/about' : """I'm the HappyCamper that looks up at the stars and says the Earth is Flat\n\nAs a HappyCamper I will give you another perspective on the nature of our reality.\n\nThe reality, the terrain is important in knowing where we are and how life should be lived\n\nTo get you started here are the lists for the debunks and the responses this HappyCamper can generate based on member imput\n\n/debunk\n/debunk_list\n\n/response\n/response_list\n\nTo Test HappyCamper visit the demo group at: https://t.me/happycamperdemo\n\n/start""",
+    '/about' : """I'm the HappyCamper that looks up at the stars and says the Earth is Flat\n\nAs a HappyCamper I will give you another perspective on the nature of our reality.\n\nThe reality, the terrain is important in knowing where we are and how life should be lived\n\nTo get you started here are the lists for the debunks and the responses this HappyCamper can generate based on member imput\n\n/debunk\n/debunk_list\n\n/response\n/response_list\n\nTo Test HappyCamper visit the demo group at: https://t.me/happycamperdemo\n\nVisit the creators telegram channel at https://t.me/dojo_isms\n\n/start""",
     
     '/debunk' : """A debunk response can be generated through a list of catch-phrases. For example if a member types in 'there is no curve' this post will generate an automated response to the catch phrase 'there is no curve.'\n\nA combination of words can also generate automated responses.\n\nHere is a list of available debunks to trigger.\n\n/debunk_list\n\n/start""",
     
