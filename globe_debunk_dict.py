@@ -798,7 +798,7 @@ globe_debunk_dictionary = {
         
         'video' : 'lunar eclipse with hole in sun.mp4',
         
-        'search_words' : ["lunar eclipse", "show me", "explain how", "on flat earth", "witness", "eclipse"]
+        'search_words' : ["lunar eclipse", "show me", "explain how", "on flat earth", "witness", "eclipse", "eclipse happen"]
     },
 
 }
