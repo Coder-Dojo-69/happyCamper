@@ -727,7 +727,7 @@ globe_debunk_dictionary = {
         
         'video' : 'fast earth model with 24 hour midnight sun.mp4',
         
-        'search_words' : ["24 hour", "midnight", "antarctic sun",]
+        'search_words' : ["24 hour", "midnight", "antarctic sun", "day and night", "the antarctic"]
     },
     'debunk_070': {
         'string_list' : [
