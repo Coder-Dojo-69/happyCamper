@@ -523,7 +523,7 @@ globe_debunk_dictionary = {
         
         'file' : 'green skin alien chick.jpg',
         
-        'search_words' : ["green skin", "alien", "hands", "space lovers",]
+        'search_words' : ["green skin", "alien", "hands", "space lovers", "go to space",]
     },
     'debunk_050': {
         'string_list' : [
