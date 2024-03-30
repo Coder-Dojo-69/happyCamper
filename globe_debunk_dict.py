@@ -792,13 +792,13 @@ globe_debunk_dictionary = {
     },
     'debunk_076': {
         'string_list' : [
-            "lunar eclipse with hole in sun", "did you see the lunar eclipse", "explain the lunar eclipse", "what is the lunar eclipse", "how do eclipse's work on flat earth", "how do eclipses work on flat earth",
+            "lunar eclipse with hole in sun", "did you see the lunar eclipse", "explain the lunar eclipse", "what is the lunar eclipse", "how do eclipse's work on flat earth", "how do eclipses work on flat earth", "wait for this eclipse", "wait for the eclipse"
         ],
         'caption' : f"There are other explainations for what they give us as the cause for eclipses. Until we know everything, then there is nothing we cant question.",
         
         'video' : 'lunar eclipse with hole in sun.mp4',
         
-        'search_words' : ["lunar eclipse", "show me", "explain how", "on flat earth", "witness",]
+        'search_words' : ["lunar eclipse", "show me", "explain how", "on flat earth", "witness", "eclipse"]
     },
 
 }
