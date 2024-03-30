@@ -770,7 +770,26 @@ globe_debunk_dictionary = {
         
         'search_words' : ["mitchio kaku", "kaku", "said", "error in science", "scientific error", "the science"]
     },
-
+    'debunk_074': {
+        'string_list' : [
+            "the earth is a closed system", "bill nye the science guy", "we are never leaving earth", "van allen radiation belt",
+        ],
+        'caption' : f"The Safety valve to validate why we cant leave earth without some huge expense of protecting us from radiation.",
+        
+        'file' : 'bill nye earth is a closed system.jpg',
+        
+        'search_words' : ["bill nye", "science guy", "leave earth", "we cant", "we can't", "trapped here", "on earth",]
+    },
+    'debunk_075': {
+        'string_list' : [
+            "why does flat earth matter", "flat earth does not matter", "flat earth doesn't matter", "flat earth doesnt matter", "flat earth will collapse", "flat earth will destroy",
+        ],
+        'caption' : f"A lot is riding on the Heliocentric Model. If its foundations are removed it will cause a cascade of other sciences to be re-evaluated. Joy.",
+        
+        'file' : 'the globe earth model will fall and flat earth takes out.jpg',
+        
+        'search_words' : ["flat earth", "take out", "reveal the lie", "trust science", "knock out", "globe fall",]
+    },
 
 }
 
