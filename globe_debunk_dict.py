@@ -405,7 +405,7 @@ globe_debunk_dictionary = {
     },
     'debunk_039': {
         'string_list' : [
-            "is the earth a globe", "happy black people",
+            "is the earth a globe", "happy black people", "not drunk though", "smitty is drunk", "smitty is so drunk", "smitty's drunk", "smitty say nigger",
         ],
         'caption' : f"Is the Earth a Globe?",
         
@@ -416,7 +416,7 @@ globe_debunk_dictionary = {
     },
     'debunk_040': {
         'string_list' : [
-            "leila get your coffee", "leila the cow",
+            "leila get your coffee", "leila the cow", "leila peed herself", "it washes off",
         ],
         'caption' : f"Stay Positive. The Earth is Flat :)",
         
@@ -799,6 +799,36 @@ globe_debunk_dictionary = {
         'video' : 'lunar eclipse with hole in sun.mp4',
         
         'search_words' : ["lunar eclipse", "show me", "explain how", "on flat earth", "witness", "eclipse", "eclipse happen"]
+    },
+    'debunk_077': {
+        'string_list' : [
+            "brondby garden", "garden city", "so what if it is flat", "flat or not it does not affect my life", "how does it make my life beter", "planned city", "better city planning", "reorganize our life",
+        ],
+        'caption' : f"What if land was a title and we all got one at birth rather than spending our money to buy it?.\n\nThis is Brondby Garden City in Denmark.\n\nLand Scarcity is the Biggest Lie because it is the one that demoralizes us and seperates us from what is our birth right. The right to the land.\n\nWe talk about human rights and freedom. But that is all dependant on FreeLand and Land Rights.\n\nTime to fix the world.",
+        
+        'video' : 'brondby garden city denmark.MP4',
+        
+        'search_words' : ["garden city", "garden world", "land scarcity", "new world", "old world",]
+    },
+    'debunk_078': {
+        'string_list' : [
+            "edge of the lake", "edge of the ocean", "edge of the world", "edge of the flat", "edge of the globe", "where is the edge",
+        ],
+        'caption' : f"Could you still man the Flat Earth? Do you know how flat earther's think in regards to the cosmology?\n\nThere is more of something to be explored beyond the Ice Walls.\n\nThere is more at stake here than just a shape. Its what's in it and beyond.",
+        
+        'file' : 'edge of lake edge of ocean.jpg',
+        
+        'search_words' : ["edge of", "ocean", "lake", "earth", "surround", "hold",]
+    },
+    'debunk_079': {
+        'string_list' : [
+            "does the earth spin", "does the earth rotate", "does the earth move" "is the earth in motion", "can you feel the earth move", "explain the motion of the earth", "the earth orbit",
+        ],
+        'caption' : f"They tell you its due to your frame of reference being one with the ground. But they forgot that you're still accelerating due to the fact that you're changing velocity from an absulute frame of reference. The frame of reference being the centre of the rotation. Which translates to 1000mph at the Equator.",
+        
+        'file' : 'spin you dont feel.jpg',
+        
+        'search_words' : ["spin earth", "of the earth", "rotate", "rotation", "earth rotates", "earth spin", "feel"]
     },
 
 }
