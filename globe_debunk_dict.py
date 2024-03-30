@@ -513,7 +513,7 @@ globe_debunk_dictionary = {
         
         'video' : 'fake ass globe ball with oceans.mp4',
         
-        'search_words' : ["planet ocean", "ocean world", "ball of water", "ocean", "spinning ball", "water on",]
+        'search_words' : ["planet ocean", "ocean world", "ball of water", "ocean", "spinning ball", "water on", "spinning rock", "water stick"]
     },
     'debunk_049': {
         'string_list' : [
