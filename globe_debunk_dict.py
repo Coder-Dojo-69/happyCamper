@@ -830,6 +830,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["spin earth", "of the earth", "rotate", "rotation", "earth rotates", "earth spin", "feel"]
     },
+    'debunk_080': {
+        'string_list' : [
+            "dunning kruger attract", "flat earth shill", "dunning kruger make",
+        ],
+        'caption' : f"As soon as any off these people talk the condesension is immediately noticeable. Globe Earther's are so cringe",
+        
+        'file' : 'dunning kruger attracted to anti flat earth.jpg',
+        
+        'search_words' : ["dunning kruger", "effect", "dumb", "dummy", "smart", "globalist", "global", "globber", "globbie", "globby",]
+    },
 
 }
 
