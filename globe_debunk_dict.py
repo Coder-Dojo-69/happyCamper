@@ -408,7 +408,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "is the earth a globe", "happy black people", "not drunk though", "smitty is drunk", "smitty is so drunk", "smitty's drunk", "smitty say nigger",
         ],
-        'caption' : f"Is the Earth a Globe?",
+        'caption' : f"Sha Nay Nay says Nay!",
         
         'file' : 'sha nay nay no way nigger.jpg',
         'video' : 'sha nay nay no way nigger.mp4',
