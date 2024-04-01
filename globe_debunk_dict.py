@@ -314,12 +314,13 @@ globe_debunk_dictionary = {
         'string_list' : [
             "quran says earth is flat",
             "flat earth is supported by the quran",
+            "quran says earth is a globe", "quran say's earth is a globe",
         ],
         'caption' : f"TAFSIR QURTUBI (2)\n\n'And we spread out the Earth, and placed anchors in it, and in it grew everything by proper measure.'",
         
         'file' : 'flat earth verse in quran 3.jpg',
         
-        'search_words' : ["quran", "flat", "allah",]
+        'search_words' : ["quran", "flat earth", "globe earth", "says it is flat", "say's it is flat", "says that earth", "say's that earth",]
     },
     'debunk_032': {
         'string_list' : [
