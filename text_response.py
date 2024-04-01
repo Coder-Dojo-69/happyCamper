@@ -1,7 +1,7 @@
 text_response_dict = {
     'response_001' : {
-        'text' : ['vaccines are dangerous',],
-        'text_comb' : ["vaccine", "vaxx", "jab", "take", "poison", "took", "taken", "jabbed", "pfizer",],
+        'text' : ['vaccines are dangerous', 'vaxx is dangerous', 'jab is dangerous'],
+        'text_comb' : ["vaccine", "vaxx", "jab", "pfizer", 'the jab is', "bad for"],
         'response' : 'vaccines are toxic poisons',
     },
     'response_002' : {
