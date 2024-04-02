@@ -443,13 +443,15 @@ globe_debunk_dictionary = {
             "nanneke is on a coffee break",
             "coffee break time",
             "ice princess nanneke",
+            "ice princess dancing",
+            "the ice dancing twins",
         ],
-        'caption' : f"Evgenia's Ice Princess Sister, we introduce to you Princess Nanneke on Ice :) Happy Camper things. lol.",
+        'caption' : f"Ice Princess Evgenia has a Twin Sister. We introduce to you Ice Princess Nanneke :)",
         
         'file' : 'evgenia russian ice skater 1.jpg',
         'video' : 'evgenia russian ice skater 1.MP4',
         
-        'search_words' : ["nanneke", "flat earth", "riding the canal",]
+        'search_words' : ["nanneke", "flat earth", "riding the canal", "ice princess", "skate on ice", "evgenia", "grace on ice"]
     },
     'debunk_043': {
         'string_list' : [
