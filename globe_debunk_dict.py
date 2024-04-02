@@ -451,7 +451,7 @@ globe_debunk_dictionary = {
         'file' : 'evgenia russian ice skater 1.jpg',
         'video' : 'evgenia russian ice skater 1.MP4',
         
-        'search_words' : ["nanneke", "flat earth", "riding the canal", "ice princess", "skate on ice", "evgenia", "grace on ice"]
+        'search_words' : ["nanneke", "flat earth", "riding the canal", "ice princess", "skate on ice", "evgenia", "grace on ice", "all the action", "happens in bed"]
     },
     'debunk_043': {
         'string_list' : [
