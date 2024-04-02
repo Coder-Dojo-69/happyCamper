@@ -865,6 +865,17 @@ globe_debunk_dictionary = {
         
         'search_words' : ["you're a retard", "your a retard", "everyone is a retard", "awesome people", "sing it", "no self doubt", "dont doubt", "don't doubt", "do better",]
     },
+    'debunk_083': {
+        'string_list' : [
+            "proving the earth spin", "prove the earth spin", "globe model predict", "earth rotates everday",
+        ],
+        'caption' : f"It should be easy to prove the earth moves but all attempts to do so have come back negative.",
+        
+        'file' : 'have you ever seen a scientific proof earth spin.jpg',
+        
+        'search_words' : ["scientific proof", "earth spin", "peer review", "me neither", "witness earth spin",]
+    },
+
 
 }
 
