@@ -642,7 +642,7 @@ globe_debunk_dictionary = {
     },
     'debunk_061': {
         'string_list' : [
-            "you spin me out", "you spin me right round", "you're a spinner", "watch the earth rotate", "watch the spin",
+            "you spin me out", "you spin me right round", "you're a spinner", "watch the earth rotate", "watch the spin", "one good turn deserves another",
         ],
         'caption' : f"You spin me righ round, right round like a record right round round round like a record right round baby right round",
         
@@ -850,6 +850,16 @@ globe_debunk_dictionary = {
         'video' : 'the default position is that the earth is stationary.mp4',
         
         'search_words' : ["default position", "earth is stationary", "positive claim",]
+    },
+    'debunk_082': {
+        'string_list' : [
+            "dancing chinese chipmunk", "singing chinese chipmunk", "never doubt the retard", "everyone can be awesome", "retards can be awesome", "dont underestimate retard", "", "don't underestimate retard", "we're all special", "sing it loud", "sing it proud",
+        ],
+        'caption' : f"Its not like people look in the mirror to tell themselves they're not Awesome. Never Forget that most of us are retarded in our own special way. lol.",
+        
+        'video' : 'dancing chinese chipmunks.mp4',
+        
+        'search_words' : ["you're a retard", "your a retard", "everyone is a retard", "awesome people", "sing it", "no self doubt", "dont doubt", "don't doubt", "do better",]
     },
 
 }
