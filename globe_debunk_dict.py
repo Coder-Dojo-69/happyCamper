@@ -845,7 +845,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "default position is that the earth is stationary", "earth does not move", "witsit's positive proof claim", "prove that its a globe", "prove it's a globe", "prove its a globe", "flat earth does not need to prove",
         ],
-        'caption' : f"Our senses tell us that the earth is stationary. This is what we observer. From this perspective, it is up to the heliocentric model prove its claims. All efforts to detects earths motion, including Michaelson Morley, gyroscopes and gyrocompasses have all come back negative or inconsequential.\n\nSo until definitive proof comes to hand, the Earth is Stationary.",
+        'caption' : f"Our senses tell us that the earth is stationary. This is what we observe. From this perspective, it is up to the heliocentric model to prove its claims. All efforts to detects earths motion, including Michaelson Morley, gyroscopes and gyrocompasses have all come back negative or inconsequential.\n\nSo until definitive proof comes to hand, the Earth is Stationary.",
         
         'video' : 'the default position is that the earth is stationary.mp4',
         
