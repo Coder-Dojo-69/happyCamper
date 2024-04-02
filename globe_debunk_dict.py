@@ -853,7 +853,7 @@ globe_debunk_dictionary = {
     },
     'debunk_082': {
         'string_list' : [
-            "dancing chinese chipmunk", "singing chinese chipmunk", "never doubt the retard", "everyone can be awesome", "retards can be awesome", "dont underestimate retard", "", "don't underestimate retard", "we're all special", "sing it loud", "sing it proud",
+            "dancing chinese chipmunk", "singing chinese chipmunk", "never doubt the retard", "everyone can be awesome", "retards can be awesome", "dont underestimate retard", "don't underestimate retard", "we're all special", "sing it loud", "sing it proud",
         ],
         'caption' : f"Its not like people look in the mirror to tell themselves they're not Awesome. Never Forget that most of us are retarded in our own special way. lol.",
         
