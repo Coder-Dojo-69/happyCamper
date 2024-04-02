@@ -442,6 +442,8 @@ globe_debunk_dictionary = {
         'string_list' : [
             "nanneke is on a coffee break",
             "coffee break time",
+            "nanneke is sleeping",
+            "nanneke's night action",
             "ice princess nanneke",
             "ice princess dancing",
             "the ice dancing twins",
