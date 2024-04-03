@@ -882,7 +882,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"An Anti-Semitic Poster Published by the Yugoslav NSDAP Party in Belgrade, Serbia\n\nC. 1941. “come and see the anti-masonic exhibition”",
         
-        'file' : 'jew deception of globe earth from protocols 2.jpg',
+        'file' : 'jew deception of globe earth from protocols 5.jpg',
                 
         'search_words' : ["jew deception", "globe", "masonic deception", "heliocentric",]
     },
