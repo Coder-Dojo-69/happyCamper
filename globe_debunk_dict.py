@@ -659,7 +659,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "show me the curve", "reflection of the sky", "blue sky ocean", "salt flat no curve",
         ],
-        'caption' : f"The View is pretty Majestic dont you think?",
+        'caption' : f"The View is pretty Majestic dont you think?\n\nAnd Yes. They Earth is Flat",
         
         'video' : 'salt flats no curve reflect the sky.mp4',
         
