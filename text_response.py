@@ -16,7 +16,7 @@ text_response_dict = {
     },
     'response_004' : {
         'text' : ["please stop arguing",],
-        'text_comb' : ["happy", "camper", "who", "how",],
+        'text_comb' : ["happycamper", "how",],
         'response' : "We're all happy campers here :) Just look up and see the Heavens move. They're watching us and playing games :)",
     },
     'response_005' : {
