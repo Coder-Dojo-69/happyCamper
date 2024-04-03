@@ -105,8 +105,9 @@ globe_debunk_dictionary = {
             "flat earth is debunked",
             "earth is not flat",
             "earth is a globe",
+            "your senses lie", "globe earth is true"
         ],
-        'caption' : f"Dont let them convince you that you're crazy. The Globe Lie is what is crazy. When you really think about it. lol.",
+        'caption' : f"“The one thing the fable of the revolving Earth has done, it has shown power to make a man a mental slave, so that he dares not back the evidence of his own senses. To deny the plain and obvious movement of the Sun he sees before him. When he feels himself standing on an Earth utterly devoid of motion, at the suggestion of the someone else he is prepared to accept that he is spinning furiously round. When he sees a bird flying, and gaining over the ground, his is prepared to belive that the ground is really travelling a great number of times faster than the bird, finally, in order to uphold the imagination of a madman, he is prepared to accuse his Maker of forming him a sensiferous lie.”\n~ E. Eschini ('Foundations of Many Generations)",
         'file' : 'flat earth crazy globe earth normal.jpg',
         'search_words' : ["flat", "crazy"]
     },
@@ -867,14 +868,25 @@ globe_debunk_dictionary = {
     },
     'debunk_083': {
         'string_list' : [
-            "proving the earth spin", "prove the earth spin", "globe model predict", "earth rotates everday",
+            "proving the earth spin", "prove the earth spin", "globe model predict", "earth rotates everday", "scientific proof of earth spin", "earth spin proof", "earth does rotate", "earth does move",
         ],
         'caption' : f"It should be easy to prove the earth moves but all attempts to do so have come back negative.",
         
         'file' : 'have you ever seen a scientific proof earth spin.jpg',
         
-        'search_words' : ["scientific proof", "earth spin", "peer review", "me neither", "witness earth spin",]
+        'search_words' : ["scientific proof", "earth spin", "peer review", "me neither", "witness earth spin", "detect the rotation", "moving earth",]
     },
+    'debunk_084': {
+        'string_list' : [
+            "anti-masonic globe", "jews created flat earth", "flat earth is a jew psyop",
+        ],
+        'caption' : f"An Anti-Semitic Poster Published by the Yugoslav NSDAP Party in Belgrade, Serbia\n\nC. 1941. “come and see the anti-masonic exhibition”",
+        
+        'file' : 'jew deception of globe earth from protocols 2.jpg',
+                
+        'search_words' : ["jew deception", "globe", "masonic deception", "heliocentric",]
+    },
+        
 
 
 }
