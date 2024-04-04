@@ -892,7 +892,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"If you dont livestream it then you dont have to cover anything up if something goes wrong. Because it's too much to expect that we progress from where we last left off.",
         
-        'file' : 'appollo mission live but not odessia.jpg',
+        'file' : 'appollo mission live but not odessia.png',
         
         'search_words' : ["livestream", "of the moon", "progress", "50+ year", "50 plus year", "going backwards"]
     },        
