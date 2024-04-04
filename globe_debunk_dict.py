@@ -896,6 +896,46 @@ globe_debunk_dictionary = {
         
         'search_words' : ["livestream", "of the moon", "progress", "50+ year", "50 plus year", "going backwards"]
     },        
+    'debunk_086': {
+        'string_list' : [
+            "water moving on earth", "if the earth move", "if the earth is in motion", "moving water on earth", "earth quake makes water move",
+        ],
+        'caption' : f"Earth Quake in Taiwan demonstrates what actually happens to water when the earth moves. Ever looked at a still lake before?",
+        
+        'video' : 'earth quake taiwan swimming pool splashing.mp4',
+        
+        'search_words' : ["earth quake", "earthquake", "moving water", "water move", "earth move", "moving earth", "motion of earth", "earth's motion", "earths motion",]
+    },
+    'debunk_087': {
+        'string_list' : [
+            "nasa drops the ball", "gravity in space", "pockets of gravity",
+        ],
+        'caption' : f"If Space were real, you would not need to put so much effort into fooling us it is real. Oh no NASA why did you drop the ball? lol.",
+        
+        'video' : 'nasa drops the ball on iss.MP4',
+        
+        'search_words' : ["space prank", "nasa bust", "ball drop", "dropping the ball", "drop the ball", "gravity"]
+    },
+    'debunk_088': {
+        'string_list' : [
+            "you can tell its real", "elon musk is a frontman", "do you trust elon", "elon is pulling our leg",
+        ],
+        'caption' : f"You can tell its real...\n\n...Because it looks so fake.\n\n  - Elon Musk\n\nSometimes it just feels like they're laughing in our face as they lie about space.",
+        
+        'video' : 'you can tell its real because it looks so fake elon musk.MP4',
+        
+        'search_words' : ["space car", "convertable", "in space", "launch",]
+    },
+    'debunk_089': {
+        'string_list' : [
+            "elon is fake", "elon is jodie foster", "because it looks so fake", "female elon musk", "space x and cgi",
+        ],
+        'caption' : f"You can tell its real...\n\n...Because it looks so fake.\n\n  - Elon Musk\n\nPS. Elon is secretly Jodie Foster's Brother.",
+        
+        'file' : 'you can tell its real because it looks so fake.png',
+        
+        'search_words' : ["elon", "front man", "frontman", "chip in your brain", "funded by", "puppet",]
+    },
 
 
 }
