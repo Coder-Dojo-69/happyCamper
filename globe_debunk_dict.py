@@ -936,6 +936,36 @@ globe_debunk_dictionary = {
         
         'search_words' : ["elon", "front man", "frontman", "chip in your brain", "funded by", "puppet",]
     },
+    'debunk_090': {
+        'string_list' : [
+            "orion belts pyramid", "pyramid's align with orion", "orion's belt prove",
+        ],
+        'caption' : f"The Pyramids, we are told was built to align to Orion's Belt and yet since they were built they still do align to Orion's Belt. The Sun does not orbit the Milky Way and nor does the universe expand from a Bang.",
+        
+        'file' : 'orions belt pyramid stars align 3000 years.jpg',
+        
+        'search_words' : ["orion's belt", "orions belt", "pyramids of giza", "pyramid's of Giza", "proves the earth does not", "earth's motion", "motion of the earth", "earths motion",]
+    },
+    'debunk_091': {
+        'string_list' : [
+            "how does radar work", "radar works better", "radio waves goes over", "radio waves travel straight",
+        ],
+        'caption' : f"Radar tracks better on a non rotating ball of water. The Earth does not move.",
+        
+        'file' : 'so you think radar works on a spinning ball.jpg',
+        
+        'search_words' : ["radar", "spinning ball", "on flat earth", "radar signal", "flat radar",]
+    },
+    'debunk_092': {
+        'string_list' : [
+            "the heavens move", "the heaven's move", "the sky moves", "the sky above moves", "the earth always remain stationary",
+        ],
+        'caption' : f"The Earth is a Foundation. Foundations do not move. Globe earth puts us on a moving object through space. Negative. Life requires a non moving foundation to live. The house of the Divine is built upon strong foundations that do not move.",
+        
+        'file' : 'the heavens move the earth does not.jpg',
+        
+        'search_words' : ["still rock", "rock balanc", "sky above", "heaven's above", "heavens above", "stay still",]
+    },
 
 
 }
