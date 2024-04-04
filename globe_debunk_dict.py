@@ -886,7 +886,16 @@ globe_debunk_dictionary = {
                 
         'search_words' : ["jew deception", "globe", "masonic deception", "heliocentric",]
     },
+    'debunk_085': {
+        'string_list' : [
+            "when will we go back to the moon", "live moon launch", "will the nasa missions be live", "will the moon mission be live",
+        ],
+        'caption' : f"If you dont livestream it then you dont have to cover anything up if something goes wrong. Because it's too much to expect that we progress from where we last left off.",
         
+        'file' : 'appollo mission live but not odessia.jpg',
+        
+        'search_words' : ["livestream", "of the moon", "progress", "50+ year", "50 plus year", "going backwards"]
+    },        
 
 
 }
