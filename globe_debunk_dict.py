@@ -976,6 +976,26 @@ globe_debunk_dictionary = {
         
         'search_words' : ["president's talk", "president talk", "going back to the moon", "exploring space", "go back", "the moon", "promise",]
     },
+    'debunk_094': {
+        'string_list' : [
+            "bolivian salf flat", "its flat as far as the eye can see", "there is no curve",
+        ],
+        'caption' : f"Flat as far as the eye can see!",
+        
+        'file' : 'bolivian salt flats zero curvature 1.jpg',
+        
+        'search_words' : ["bolivian salt", "flat as far", "the eye can see", "salt flat", "level land", "flat horizon",]
+    },
+    'debunk_095': {
+        'string_list' : [
+            "shadow of the moon", "total eclipse in the 21st century",
+        ],
+        'caption' : f"How come the Shadow of the Moon is so small? Shouldn't the shadow of the moon be bigger than 70 miles?",
+        
+        'file' : 'total ecplipse 21st century.jpg',
+        
+        'search_words' : ["the ecliptic", "path of the moon", "moon shadow", "lunar eclipse", "solar eclipse",]
+    },
 
 
 }
