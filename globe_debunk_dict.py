@@ -36,7 +36,7 @@ globe_debunk_dictionary = {
             'what makes you think its flat',
             'burden does not lie with the globe',
         ],
-        'caption' : f'Based on what we observe with our senses the burden of proof is upon the heliocentric model to prove its claims',
+        'caption' : f'Based on what we observe with our senses the burden of proof is upon the heliocentric model to prove its claims.\n\nWhat it really is:\n\n"its a flat server. Meaning the reality is hosted on the earth which does not move. That is what the ground is. Bodies of water do not Bend.\n\nIts almost as if it is semi gas-lighting.\n\nConvince us that Bodies of water conform to the curvature of the ball vs being level as if it were bounded by higher elevation.',
         'file' : 'dear globie try to prove it is a globe.jpg',
         'search_words' : ["burden", "proof",]
     },
