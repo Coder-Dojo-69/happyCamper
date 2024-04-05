@@ -966,6 +966,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["still rock", "rock balanc", "sky above", "heaven's above", "heavens above", "stay still",]
     },
+    'debunk_093': {
+        'string_list' : [
+            "they keep making promise", "they dangle the carrot", "moon is always out of reach",
+        ],
+        'caption' : f"Ever been in a situation where you know they keep lying to you but there is no way to call them out? Ever get the feeling that maybe, just maybe, they're just making promises that will never come true?",
+        
+        'video' : 'us presidents talk about going back to the moon making promises.mp4',
+        
+        'search_words' : ["president's talk", "president talk", "going back to the moon", "exploring space", "go back", "the moon", "promise",]
+    },
 
 
 }
