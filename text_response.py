@@ -5,7 +5,7 @@ text_response_dict = {
         'response' : 'vaccines are toxic poisons',
     },
     'response_002' : {
-        'text' : ['who is this', 'not feeling good', 'we are all evil', 'revert to islam'],
+        'text' : ['who is this', 'not feeling good', 'we are all evil', 'revert to islam', 'what is the truth'],
         'text_comb' : ["feeling down", "spirit", "forgive", "shame",],
         'response' : 'We are ALL Super Awesome Divine and Eternal. Realise this and move with the flow of life. It keeps going :)',
     },
