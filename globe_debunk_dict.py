@@ -2,20 +2,22 @@ globe_debunk_dictionary = {
     'debunk_001': {
         'string_list' : [
             'laws of motion',
+            'law of motion',
             'its stationary and has no motion',
             "because you're moving with"
             ],
         'caption' : f"They tried to measure Earth's motion but failed in the Michelson-Morley experiment using interferometry and mirrors to measure displacement of light as it 'motioned' through the Aether",
         'file' : 'einstein earth is motionless 1.jpg',
-        'search_words' : ["earth", "stationary", "motion", "moving", "foundation", "move"],
+        'search_words' : ["earth", "stationary", "motion", "foundation",],
     },
     'debunk_002': {
         'string_list' : [
             'no aether detected',
+            'earth does not move',
         ],
         'caption' : f'The Aether is like the pixel on the screen that shifts and changes to create the scenery you see on the screen of life',
         'file' : 'aether motion detection.jpg',
-        'search_words' : ["aether", 'field',]
+        'search_words' : ["aether", 'field', 'detect',]
     },
     'debunk_003': {
         'string_list' : [
@@ -38,7 +40,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f'Based on what we observe with our senses the burden of proof is upon the heliocentric model to prove its claims.\n\nWhat it really is:\n\n"its a flat server. Meaning the reality is hosted on the earth which does not move. That is what the ground is. Bodies of water do not Bend.\n\nIts almost as if it is semi gas-lighting.\n\nConvince us that Bodies of water conform to the curvature of the ball vs being level as if it were bounded by higher elevation.',
         'file' : 'dear globie try to prove it is a globe.jpg',
-        'search_words' : ["burden", "proof",]
+        'search_words' : ["burden", "proof", "globe proof", "globe lie"]
     },
     'debunk_005': {
         'string_list' : [
@@ -72,7 +74,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"if the earth moves it would mean that objects can just hover above the ground and wait for the destination to arrive",
         'file' : 'helicopters and pendulums 1.jpg',
-        'search_words' : ["hover", "above", "earth"]
+        'search_words' : ["hover", "above", "earth", "spin"]
     },
     'debunk_008': {
         'string_list' : [
@@ -81,7 +83,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Airy's failure proves the Earth is not in motion. Oh dear",
         'file' : 'airys failure graphic.jpg',
-        'search_words' : ["failure", "airy", "prove"]
+        'search_words' : ["failure", "airy", "prove", "light"]
     },
     'debunk_009': {
         'string_list' : [
@@ -89,7 +91,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Large bodies of water always finds its level",
         'file' : 'water level curving water generated water.jpg',
-        'search_words' : ["level", "water",]
+        'search_words' : ["level", "water", "cgi", "bend"]
     },
     'debunk_010': {
         'string_list' : [
@@ -109,7 +111,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"“The one thing the fable of the revolving Earth has done, it has shown power to make a man a mental slave, so that he dares not back the evidence of his own senses. To deny the plain and obvious movement of the Sun he sees before him. When he feels himself standing on an Earth utterly devoid of motion, at the suggestion of the someone else he is prepared to accept that he is spinning furiously round. When he sees a bird flying, and gaining over the ground, his is prepared to belive that the ground is really travelling a great number of times faster than the bird, finally, in order to uphold the imagination of a madman, he is prepared to accuse his Maker of forming him a sensiferous lie.”\n~ E. Eschini ('Foundations of Many Generations)",
         'file' : 'flat earth crazy globe earth normal.jpg',
-        'search_words' : ["flat", "crazy"]
+        'search_words' : ["flat", "crazy", "normal", "globe"]
     },
     'debunk_012': {
         'string_list' : [
@@ -119,11 +121,11 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Call me crazy but I dont think water should be able to stick to a spinning ball",
         'file' : 'edgar the bug globetard logic.jpg',
-        'search_words' : ["globe", "logic"]
+        'search_words' : ["globe", "logic", "lie"]
     },
     'debunk_013': {
         'string_list' : [
-            "what flat earth evidence",
+            "flat earth evidence",
             "head in the sand",
             "flat earth win",
         ],
