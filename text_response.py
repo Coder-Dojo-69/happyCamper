@@ -31,7 +31,7 @@ text_response_dict = {
     },
     'response_007' : {
         'text' : ["says a flerf",],
-        'text_comb' : ["flerf", "retard", "retarded", "stupid"],
+        'text_comb' : ["flerf", "retarded", "stupid"],
         'response' : "Globbies love spinning balls of water :)",
     },
     'response_008' : {
