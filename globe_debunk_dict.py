@@ -1000,7 +1000,7 @@ globe_debunk_dictionary = {
     },
     'debunk_096': {
         'string_list' : [
-            "meet the dindu", "/niggers dindu", "niggers dont do nothing", "niggers dont belong", "niggers are savage",
+            "meet the dindu", "/niggers dindu", "niggers dont do nothing", "niggers dont belong", "niggers are savage", "niggers dindu nuffin racist",
         ],
         'caption' : f"Such a nice and Wholesome couple making society better by their presence.",
         
