@@ -998,6 +998,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["the ecliptic", "path of the moon", "moon shadow", "lunar eclipse", "solar eclipse",]
     },
+    'debunk_096': {
+        'string_list' : [
+            "meet the dindu", "/niggers dindu", "niggers dont do nothing", "niggers dont belong", "niggers are savage",
+        ],
+        'caption' : f"Such a nice and Wholesome couple making society better by their presence.",
+        
+        'file' : 'dindu and dinsee nuffins.jpg',
+        
+        'search_words' : ["dindu nuffin", "savages", "like nigger", "nice couple"]
+    },
 
 
 }
