@@ -235,13 +235,14 @@ globe_debunk_dictionary = {
     },
     'debunk_024': {
         'string_list' : [
-            "livestream from space of upside down earth",
+            "upside down earth",
+            "life is upside down",
         ],
         'caption' : f"Looking for a livestream of people in upside down Earth is tough. You'd think it would be easy given the millions in dollars NASA is spending to fool us the world is a spinning ball in space. And we came from monkey's.",
         
         'file' : 'livestream from space of upside down earth.jpg',
         
-        'search_words' : ["livestream", "space", "upside", "down",]
+        'search_words' : ["livestream", "space", "upside down",]
     },
     'debunk_025': {
         'string_list' : [
@@ -569,7 +570,7 @@ globe_debunk_dictionary = {
     },
     'debunk_053': {
         'string_list' : [
-            "matrix dream world up side down", "what's going on in the southern", "whats going on in the southern", "world is upside down", "life is upside down",
+            "matrix dream world up side down", "what's going on in the southern", "whats going on in the southern", "world is upside down",
         ],
         'caption' : f"So they can fool you into thinking that there are other worlds much like ours. When in reality you are the extradimension of the jewel of life.\n\nGravity is the key to their lies. Gravity is not a force but an idea of reality.\n\nBut in reality relativity needs absolutes. It can't just all be relative.",
         
