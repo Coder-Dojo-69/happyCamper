@@ -13,11 +13,11 @@ globe_debunk_dictionary = {
     'debunk_002': {
         'string_list' : [
             'no aether detected',
-            'earth does not move',
+            'what is Aether',
         ],
         'caption' : f'The Aether is like the pixel on the screen that shifts and changes to create the scenery you see on the screen of life',
         'file' : 'aether motion detection.jpg',
-        'search_words' : ["aether", 'field', 'detect',]
+        'search_words' : ["aether field", 'did not detect', "michelson"]
     },
     'debunk_003': {
         'string_list' : [
@@ -141,7 +141,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Because you are retarded. Whoever you are lol",
         'file' : 'Edgar The Bug template retarded telegram.jpg',
-        'search_words' : ["are", "retarded",]
+        'search_words' : ["edgar the bug", "retard", "dumnb stupid"]
     },
     'debunk_015': {
         'string_list' : [
