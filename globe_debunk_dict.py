@@ -400,7 +400,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "at the snap of the mind we can change the world",
         ],
-        'caption' : f"Let's readjust the Space Paradigm We Have in Our Minds!!!",
+        'caption' : f"The constant C of light is a farce, not a force for sure. Its a misnomer for the distances between us and the stars that gives validity to the notion of a universe of \"stars\" when in reality the reality itself is informational.\n\nThe complexity of life on Earth is vast enough so that its a whole universe unto itself. They demoralize us by trying to get us to forsake the sacredness of life on earth in favour of \"star trekking\" across the universe.\n\nThe biggest lie ever.",
         
         'file' : 'snap kid flat earth.jpg',
         'video' : 'snap kid flat earth.mp4',
@@ -513,7 +513,7 @@ globe_debunk_dictionary = {
         'file' : '.jpg',
         'video' : 'coriolis effect with flat earth model and anodes.mp4',
         
-        'search_words' : ["coriolis effect", "model", "anodes", "causes",]
+        'search_words' : ["coriolis effect", "model", "anodes", "weather", "trade wind", "current",]
     },
     'debunk_048': {
         'string_list' : [
