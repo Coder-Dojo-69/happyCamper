@@ -320,9 +320,9 @@ globe_debunk_dictionary = {
             "flat earth is supported by the quran",
             "quran says earth is a globe", "quran say's earth is a globe",
         ],
-        'caption' : f"TAFSIR QURTUBI (2)\n\n'And we spread out the Earth, and placed anchors in it, and in it grew everything by proper measure.'",
+        'caption' : f"You can't be a Muslim and believe in the heliocentric model. The heliocentric model is an atheist model that doesn't work with Islam. If the ball was true you could be praying from two different directions and still have a direct line of sight to Mecca. Yet you can't, because the earth is flat.",
         
-        'file' : 'flat earth verse in quran 3.jpg',
+        'file' : 'we can see mecca facing two directions.jpg',
         
         'search_words' : ["quran", "flat earth", "globe earth", "says it is flat", "say's it is flat", "says that earth", "say's that earth",]
     },
