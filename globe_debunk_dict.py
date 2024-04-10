@@ -1011,7 +1011,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["dindu nuffin", "savages", "like nigger", "nice couple"]
     },
-
+    'debunk_097': {
+        'string_list' : [
+            "lake tahoe from space", "space is real", "the earth is a ball", "the earth is a globe"
+        ],
+        'caption' : f"Please note the fact that just like this lake, all water in the world is perfectly flat and doesn't show the slightest amount of convexity. In fact, it is physically impossible for large bodies of standing water to curve or show any convexity at all. It can be very easily demonstrated with repeatable experiments that water at rest always remains perfectly flat. This unconditionally means 71% of earth is perfectly flat, as we know almost 71% of earth is water",
+        
+        'file' : 'lake tahoe from space and from earth.jpg',
+        
+        'search_words' : ["tahoe", "level water", "curved water", "bend water", "from space",]
+    },
 
 }
 
