@@ -406,7 +406,7 @@ globe_debunk_dictionary = {
         'file' : 'snap kid flat earth.jpg',
         'video' : 'snap kid flat earth.mp4',
         
-        'search_words' : ["shift", "paradigm", "new", "old", "space", "flat earth", "globe",]
+        'search_words' : ["shift", "paradigm", "old", "space", "flat earth", "globe",]
     },
     'debunk_039': {
         'string_list' : [
