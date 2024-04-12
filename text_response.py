@@ -46,7 +46,7 @@ text_response_dict = {
     },
     'response_010' : {
         'text' : ["when my wife is near me",],
-        'text_comb' : ["near", "wife", "husband", "hubby", "love", "lovers"],
+        'text_comb' : ["near me", "when my wife",],
         'response' : "it is as if the Earth Moves",
     },
     'response_011' : {
