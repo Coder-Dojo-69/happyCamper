@@ -1021,6 +1021,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["tahoe", "level water", "curved water", "bend water", "from space",]
     },
+    'debunk_098': {
+        'string_list' : [
+            "flat earth montage", "land is flat", "horizon is flat",
+        ],
+        'caption' : f"Until the motion of the Earth is proven beyond a shadow of doubt our senses should tell us that the Earth is Flat and that its motionless.\n\nThis all aligns with our senses. Because once we no longer trust our senses, there can be no common sense.",
+        
+        'video' : 'flat earth gif montage.mp4',
+        
+        'search_words' : ["make sense", "makes sense", "flat earth", "flat horizon", "landscape",]
+    },
 
 }
 
