@@ -1031,6 +1031,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["make sense", "makes sense", "flat earth", "flat horizon", "landscape",]
     },
+    'debunk_099': {
+        'string_list' : [
+            "horizon rises to eye level", "higher you go up",
+        ],
+        'caption' : f"Horizon Rises To Eye Level due to the perspective of the plane being endless and flat. This would not be possible on a Spinning Ball of Water.",
+        
+        'video' : 'horizon rises to eye level altitude.mp4',
+        
+        'search_words' : ["eye level", "rises to", "perspective", "flat horizon"]
+    },
 
 }
 
