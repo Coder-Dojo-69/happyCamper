@@ -1041,6 +1041,16 @@ globe_debunk_dictionary = {
         
         'search_words' : ["eye level", "rises to", "perspective", "flat horizon"]
     },
+    'debunk_100': {
+        'string_list' : [
+            "philosophical grounds for", "heliocentrism is not a philosophy", "philosophy of flat", "heliocentism is futile", "globe model is futile", "flat earth is a belief",
+        ],
+        'caption' : f"The philosophical basis of Heliocentrism leads to dispair. We spend Billions of dollars to explore a universe where it is impossible to travel to other planets and star systems. Its a futile philosophy and disconnects us to the Earth.\n\nGencentrism, on the other hand, connects as to Earth and Grounds us to the majesty of the Earth Realm. Life here on Earth is special and the Heavens above proclaim it eternally.",
+        
+        'file' : 'philosophical grounds helio geo centric.jpg',
+        
+        'search_words' : ["philosophical grounds", "philosophy", "globe", "beleif system"]
+    },
 
 }
 
