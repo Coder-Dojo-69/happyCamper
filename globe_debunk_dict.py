@@ -150,6 +150,7 @@ globe_debunk_dictionary = {
             "hitler was a jew",
             "hitler was a rothchild",
             "hitler was a free",
+            "hitler was not a jew",
         ],
         'caption' : f"Being racist is natural and healthy",
         'file' : 'hitler race relations.jpg',
