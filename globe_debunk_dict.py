@@ -147,6 +147,9 @@ globe_debunk_dictionary = {
         'string_list' : [
             "you're so racist",
             "you're a hater",
+            "hitler was a jew",
+            "hitler was a rothchild",
+            "hitler was a free",
         ],
         'caption' : f"Being racist is natural and healthy",
         'file' : 'hitler race relations.jpg',
