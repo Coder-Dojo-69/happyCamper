@@ -260,7 +260,7 @@ globe_debunk_dictionary = {
         
         'file' : 'collage earth tree model different ancient cultures psyop.jpg',
         
-        'search_words' : ["always", "greek", "rome", "ancient", "knew", "culture"]
+        'search_words' : ["always knew", "greek", "rome", "ancient", "culture"]
     },
     'debunk_026': {
         'string_list' : [
