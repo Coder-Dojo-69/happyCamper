@@ -335,7 +335,7 @@ globe_debunk_dictionary = {
             "cia started flat earth",
             "flat earth is a psyop",
         ],
-        'caption' : f"In reality the psyop is to fool you into thinking the earth is a spinning ball of water. The CIA is actually trying to surpress Flat Earth and to poisen the well through bad actors such as Not A Professor Dave.",
+        'caption' : f"In reality the psyop is to fool you into thinking the earth is a spinning ball of water. The CIA is actually trying to surpress Flat Earth and to poison the well through bad actors such as Not A Professor Dave.",
         
         'file' : 'flat earth was a psyop started by the cia 3.jpg',
         
