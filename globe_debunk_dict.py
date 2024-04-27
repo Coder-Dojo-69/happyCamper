@@ -565,7 +565,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "who are the mason", "why is it the mason", "nasa and mason", "mason's and nasa", "masons and nasa",
         ],
-        'caption' : f"Speak No Evil. See No Evil. Hear No Evil. NASA is not just a Space Agency. They're domain is infininite. So this thing you call space? What are its attributes?",
+        'caption' : f"Speak No Evil. See No Evil. Hear No Evil. NASA is not just a Space Agency. They are here to lie. Do not believe them.",
         
         'file' : 'masons see hear speak no evil.jpg',
         
