@@ -348,7 +348,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Try asking a globber to describe the globe model?",
         
-        'file' : 'when you ask a globber how much they know about their model.jpg',
+        'file' : 'when you ask a globber how much the know about their model.jpg',
         
         'search_words' : ["globe", "model", "rotate"]
     },
