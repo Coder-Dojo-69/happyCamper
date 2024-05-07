@@ -152,9 +152,9 @@ globe_debunk_dictionary = {
             "hitler was a free",
             "hitler was not a jew",
         ],
-        'caption' : f"Being racist is natural and healthy",
+        'caption' : f"Being a culturalist is natural and healthy. Nations protect culture. Culture protects Nations",
         'file' : 'hitler race relations.jpg',
-        'search_words' : ["racist", "that",]
+        'search_words' : ["that's racist", "loving your", "race is a", "mental disease", "being racist"]
     },
     'debunk_016': {
         'string_list' : [
@@ -1060,18 +1060,5 @@ globe_debunk_dictionary = {
 
 
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 """
