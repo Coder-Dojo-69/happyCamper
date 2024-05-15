@@ -653,7 +653,7 @@ globe_debunk_dictionary = {
     },
     'debunk_060': {
         'string_list' : [
-            "flat earth is retarded", "flat earth is dumb", "flat earthers are retarded", "flat earther's are retarded", "flat earthers are dumb", "flat earther's are dumb", "globe is superior", "no one likes to be wrong",
+            "you're so dumb", "flat earth is dumb", "flat earther's are retarded", "flat earthers are dumb", "flat earther's are dumb", "globe is superior", "no one likes to be wrong",
         ],
         'caption' : f"Globbies are the most gulliball people on the flat earth. They excel at being able to be fooled.",
         
@@ -1061,6 +1061,22 @@ globe_debunk_dictionary = {
         'file' : 'philosophical grounds helio geo centric.jpg',
         
         'search_words' : ["philosophical grounds", "philosophy", "globe", "beleif system"]
+    },
+    'debunk_101': {
+        'string_list' : [
+            "flat earth is retard",
+            "flat earthers are retarded",
+            "flat earthers are so retarded",
+            "flatties are retarded",
+            "flat earth is gay",
+            "the earth is not flat",
+        ],
+        'caption' : f"Dont be Gay!",
+        
+        'file' : 'space is fake and gay.jpg',
+        'video' : '.mp4',
+        
+        'search_words' : ["you're gay", "you are gay", "flat earth", "so dumb"]
     },
 
 }
