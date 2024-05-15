@@ -1072,7 +1072,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Dont be Gay!",
         
-        'file' : 'space is fake and gay.jpg',
+        'file' : 'space is fake and gay.JPG',
         'video' : '.mp4',
         
         'search_words' : ["you're gay", "you are gay", "flat earth", "so dumb"]
