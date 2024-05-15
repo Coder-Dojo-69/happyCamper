@@ -111,7 +111,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"“The one thing the fable of the revolving Earth has done, it has shown power to make a man a mental slave, so that he dares not back the evidence of his own senses. To deny the plain and obvious movement of the Sun he sees before him.\n\nWhen he feels himself standing on an Earth utterly devoid of motion, at the suggestion of someone else he is prepared to accept that he is spinning furiously round.\n\nWhen he sees a bird flying, and gaining over the ground, he is prepared to belive that the ground is really travelling a great number of times faster than the bird, finally, in order to uphold the imagination of a madman, he is prepared to accuse his Maker of forming him a sensiferous lie.”\n~ E. Eschini ('Foundations of Many Generations)",
         'file' : 'flat earth crazy globe earth normal.jpg',
-        'search_words' : ["flat", "crazy", "normal", "globe"]
+        'search_words' : ["flat earth", "crazy", "globe earth"]
     },
     'debunk_012': {
         'string_list' : [
@@ -121,7 +121,7 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Call me crazy but I dont think water should be able to stick to a spinning ball",
         'file' : 'edgar the bug globetard logic.jpg',
-        'search_words' : ["globe", "logic", "lie"]
+        'search_words' : ["globe lie", "flat logic", "normal", "globe logic"]
     },
     'debunk_013': {
         'string_list' : [
@@ -131,13 +131,15 @@ globe_debunk_dictionary = {
         ],
         'caption' : f"Sometimes they just dont want to see",
         'file' : 'flat earth evidence head in sand.jpg',
-        'search_words' : ["evidence", "flat"]
+        'search_words' : ["what evidence", "flat"]
     },
     'debunk_014': {
         'string_list' : [
             "are you retarded",
             "kicked in the head",
             "you are retarded",
+            "you're so retarded",
+            "your so retarded",
         ],
         'caption' : f"Because you are retarded. Whoever you are lol",
         'file' : 'Edgar The Bug template retarded telegram.jpg',
@@ -151,28 +153,30 @@ globe_debunk_dictionary = {
             "hitler was a rothchild",
             "hitler was a free",
             "hitler was not a jew",
+            "that's so racist",
         ],
-        'caption' : f"Being a culturalist is natural and healthy. Nations protect culture. Culture protects Nations",
+        'caption' : f"Being racist is natural and healthy. Nations protect Race. Race protects Nations",
         'file' : 'hitler race relations.jpg',
-        'search_words' : ["that's racist", "loving your", "race is a", "mental disease", "being racist"]
+        'search_words' : ["loving your", "race is a", "mental disease", "being racist"]
     },
     'debunk_016': {
         'string_list' : [
             "easier to fool people",
-            "moon landing",
+            "moon landing is fake",
+            "they faked the moon"
             "nasa studio",
             'pinnacle of mankind',
             "pinnacle of engineering",
         ],
-        'caption' : f"Its only taken 50+ years to maybe get back there",
+        'caption' : f"Why has it taken 50+ years for NASA to go back to the moon?",
         'file' : 'easier to fool people than convince them.jpg',
-        'search_words' : ["fool", "easy",]
+        'search_words' : ["fool people", "moon landing", "nasa"]
     },
     'debunk_017': {
         'string_list' : [
             "heliocentrism is a religion",
         ],
-        'caption' : f"The Heliocentric model of our cosmology is founded upon beliefs that cannot be falsified because its attributes have been expanded to be so vast that it cannot be falsified. In other words, science has placed a limit on what we can know to be true by expanding the limits of the cosmology beyond what we can know.",
+        'caption' : f"The Heliocentric model of our cosmology is founded upon beliefs that cannot be falsified because its attributes have been expanded to be so vast that it cannot be falsified.",
         'file' : 'heliocentrism is a religion.jpg',
         'search_words' : ["globe", "religion", "deception"]
     },
@@ -180,7 +184,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "we can't go to antarctica",
         ],
-        'caption' : f"It is an objective lie to say that humans have the freedom to explore this world. The limitations imposed upon us to explore our world fully is limited by those who wish to enslave us here on Earth.",
+        'caption' : f"We are not allowed to explore Antarctica for Ourselves. It is off limits to the public.",
         'file' : 'no_image',
         
         'video' : 'dual antartic ice wall.mp4',
@@ -190,7 +194,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "antarctic treaty upheld",
         ],
-        'caption' : f"The Antarctic Treaty was signed on December 1, 1959. It entered into force on June 23, 1961.\n\nThe original signatories of the Antarctic Treaty, signed on December 1, 1959, were:\n1. Argentina\n2. Australia\n3. Belgium\n4. Chile\n5. France\n6. Japan\n7. New Zealand\n8. Norway\n9. South Africa\n10. Soviet Union\n11. United Kingdom\n12. United States\n\nSince then, many other countries have acceded to the treaty, bringing the total number of signatories to 54 as of 2022.",
+        'caption' : f"The Antarctic Treaty was signed on December 1, 1959. It entered into force on June 23, 1961. The original signatories of the Antarctic Treaty were:\n\n1. Argentina 2. Australia 3. Belgium 4. Chile 5. France 6. Japan 7. New Zealand 8. Norway 9. South Africa 10. Soviet Union 11. United Kingdom 12. United States \n\nSince then the total number of signatories is 54 as of 2022.",
         
         'file' : 'antarctic treaty upheld.png',
         
@@ -199,17 +203,19 @@ globe_debunk_dictionary = {
     'debunk_020': {
         'string_list' : [
             "we made it to the moon jump flag",
+            "we're going back to the moon",
         ],
         'caption' : f"Now that we've made it to the moon, lets all jump for joy!",
         
-        'file' : 'we made it to the moon jump flag.mp4',
         'video' : 'we made it to the moon jump flag.mp4',
         
-        'search_words' : ["moon", "jump",]
+        'search_words' : ["moon", "jump", "back to"]
     },
     'debunk_021': {
         'string_list' : [
             "no thanks i trust nasa",
+            "nasa is not the authority",
+            "nasa has nothing to do with",
         ],
         'caption' : f"Just think along the lines of absurdities as you ponder how water can stick to a spinning ball. Then you'll see that its flat. And NASA Lies.",
         
@@ -220,12 +226,13 @@ globe_debunk_dictionary = {
     'debunk_022': {
         'string_list' : [
             "looking for vaccinated flat earthers",
+            "take your booster",
         ],
         'caption' : f"Flat Earther's knows that our world is being manipulated by those who wish to enslave us. Flat Earther's are harder to lie to.",
         
         'file' : 'looking for vaccinated flat earthers.jpg',
         
-        'search_words' : ["vaccinate", "earther", "look"]
+        'search_words' : ["vaccinate", "earther", "look", "booster"]
     },
     'debunk_023': {
         'string_list' : [
