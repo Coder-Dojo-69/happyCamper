@@ -105,7 +105,6 @@ globe_debunk_dictionary = {
     'debunk_011': {
         'string_list' : [
             "flat earth is debunked",
-            "earth is not flat",
             "earth is a globe",
             "your senses lie", "globe earth is true"
         ],
