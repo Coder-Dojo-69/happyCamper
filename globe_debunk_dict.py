@@ -856,11 +856,11 @@ globe_debunk_dictionary = {
         'string_list' : [
             "dunning kruger attract", "flat earth shill", "dunning kruger make",
         ],
-        'caption' : f"As soon as any off these people talk the condesension is immediately noticeable. Globe Earther's are so cringe",
+        'caption' : f"Globe Earther's are so cringe",
         
         'file' : 'dunning kruger attracted to anti flat earth.jpg',
         
-        'search_words' : ["dunning kruger", "effect", "dumb", "dummy", "smart", "globalist", "global", "globber", "globbie", "globby",]
+        'search_words' : ["dunning kruger", "effect", "dumb", "dummy", "smart", "globber", "globbie", "globby",]
     },
     'debunk_081': {
         'string_list' : [
