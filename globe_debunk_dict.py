@@ -386,9 +386,10 @@ globe_debunk_dictionary = {
     },
     'debunk_036': {
         'string_list' : [
-            "what rotation of the earth",
+            "rotation of the earth",
             "i can feel the earth spinning",
             "its fun spinning so fast",
+            "the earth spin",
         ],
         'caption' : f"Its all good. What spin? I dont feel any spin? Do you? Everything is going to be just fine when we stop moving.",
         
@@ -1069,6 +1070,7 @@ globe_debunk_dictionary = {
             "flatties are retarded",
             "flat earth is gay",
             "the earth is not flat",
+            "not flat u stupid",
         ],
         'caption' : f"Dont be Gay!",
         
