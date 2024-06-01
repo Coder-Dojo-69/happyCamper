@@ -836,7 +836,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "edge of the lake", "edge of the ocean", "edge of the world", "edge of the flat", "edge of the globe", "where is the edge",
         ],
-        'caption' : f"Could you still man the Flat Earth? Do you know how flat earther's think in regards to the cosmology?\n\nThere is more of something to be explored beyond the Ice Walls.\n\nThere is more at stake here than just a shape. Its what's in it and beyond.",
+        'caption' : f"Could you steel man the Flat Earth? Do you know how flat earther's think in regards to the cosmology?\n\nThere is more of something to be explored beyond the Ice Walls.\n\nThere is more at stake here than just a shape. Its what's in it and beyond.",
         
         'file' : 'edge of lake edge of ocean.jpg',
         
