@@ -613,7 +613,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "not gone back to the moon", "have not been back to the moon", "why has it taken so long to go back to the moon", "what happened to the lunar module", "they lost the tapes",
         ],
-        'caption' : f"I dont know about you but how did these rocket scientist graduate primary school with these excuses for de-progressing from where we started. If our technology is greater then 50+ of no lander rovers on the Moon is failure at best, outright lie at worst.",
+        'caption' : f"In 50 plus years we've not managed to go back to the moon. Progress right. SMH.",
         
         'file' : 'nasa goes back to the moon in heartbeat but we lost the technology.jpg',
         
