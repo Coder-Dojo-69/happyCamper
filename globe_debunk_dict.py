@@ -593,7 +593,7 @@ globe_debunk_dictionary = {
         'string_list' : [
             "do not try to defeat", "the truth is there is no globe", "there is no global",
         ],
-        'caption' : f"Because their globe gives them something to horde. The earth as an eclosed system where each thing is but one aspect of the grand design is who realm dynamics works.",
+        'caption' : f"The globe model is a model of scarcity. Scarcity is what creates slaves.",
         
         'file' : 'matrix there is no globe.jpg',
         
